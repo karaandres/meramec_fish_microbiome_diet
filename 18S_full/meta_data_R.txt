@@ -1,0 +1,503 @@
+sample-id	fish_ID	diet_cat	habitat_cat	family	species	sp_abb	weight_g	length_cm	gut_weight_g	extraction_concentration_ng_ul	dilution
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	numerical	numerical	numerical	numerical	categorical
+Anat_01_18S-T2	Anat_01	Omnivore	Benthic	Ictaluridae	Ameiurus_natalis	Anat	236	25.4	9.68	28.898	1:20
+Arup_01_18S-T2	Arup_01	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	4	6	0.07	4.7464	1:20
+Arup_02_18S-T2	Arup_02	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	15	8.9	0.67	6.684	1:20
+Arup_03_18S-T2	Arup_03	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	82	15.7	0.53	13.3372	1:20
+Arup_04_18S-T2	Arup_04	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	113	17.2	1.26	8.4817	1:20
+Arup_05_18S-T2	Arup_05	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	74	15.4	2.97	1.6856	1:10
+Arup_06_18S-T2	Arup_06	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	26	10.7	0.32	0.9293	NA
+Arup_07_18S-T2	Arup_07	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	101	16.4	0.87	NA	1:30
+Arup_08_18S-T2	Arup_08	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	157	19.1	0.57	9.0417	1:20
+Arup_09_18S-T2	Arup_09	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	62	14.3	2.5	4.8873	1:20
+Cano_01_18S-T2	Cano_01	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	3	6.7	0.26	2.4275	NA
+Cano_02_18S-T2	Cano_02	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	12	9.9	1.28	1.0042	NA
+Cano_03_18S-T2	Cano_03	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	7	8.8	0.55	0.2887	NA
+Cano_04_18S-T2	Cano_04	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	5	8	0.65	0.8128	NA
+Cano_05_18S-T2	Cano_05	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	11.1	2.25	0.4249	NA
+Cano_06_18S-T2	Cano_06	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	23	13.3	2.88	5.4331	1:10
+Cano_07_18S-T2	Cano_07	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	12.3	2.03	2.3759	NA
+Cano_08_18S-T2	Cano_08	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	16	11.9	2.42	3.7361	NA
+Cano_09_18S-T2	Cano_09	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	10	9.7	1.08	1.1304	NA
+Cano_10_18S-T2	Cano_10	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.3	1.82	3.6682	NA
+Cano_11_18S-T2	Cano_11	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	10.2	1.04	2.0432	NA
+Cano_12_18S-T2	Cano_12	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.5	1.15	0.8784	NA
+Cano_13_18S-T2	Cano_13	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9.7	0.77	0.9757	NA
+Cano_14_18S-T2	Cano_14	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.9	0.9	0.1587	NA
+Cano_15_18S-T2	Cano_15	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.8	0.71	0.5457	NA
+Cano_16_18S-T2	Cano_16	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	26	13.2	2.8	1.4472	NA
+Cano_17_18S-T2	Cano_17	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.4	1.44	1.8946	NA
+Cano_18_18S-T2	Cano_18	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.8	1.57	0.4514	NA
+Cano_19_18S-T2	Cano_19	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9	1.03	0.3277	NA
+Cano_20_18S-T2	Cano_20	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.1	1.04	0.2621	NA
+Cano_21_18S-T2	Cano_21	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	9.3	0.79	0.3036	NA
+Cano_22_18S-T2	Cano_22	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.3	0.87	0.2953	NA
+Cano_23_18S-T2	Cano_23	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	15	11	1.32	1.792	NA
+Cano_24_18S-T2	Cano_24	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.4	1.35	0.5601	NA
+Ccar_01_18S-T2	Ccar_01	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.12	0.0981	NA
+Ccar_02_18S-T2	Ccar_02	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.9	0.08	0.9346	NA
+Ccar_03_18S-T2	Ccar_03	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	7	0.04	0.5179	NA
+Ccar_04_18S-T2	Ccar_04	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.5	0.07	2.8465	NA
+Ccar_05_18S-T2	Ccar_05	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.02	0.6903	NA
+Ccar_06_18S-T2	Ccar_06	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.3	0.07	1.2091	NA
+Ccar_07_18S-T2	Ccar_07	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.1	0.03	1.1764	NA
+Ccar_08_18S-T2	Ccar_08	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.6	0.05	1.442	NA
+Ccar_09_18S-T2	Ccar_09	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.04	2.1005	NA
+Ccar_10_18S-T2	Ccar_10	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.7	0.04	2.3502	NA
+Ccar_11_18S-T2	Ccar_11	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	6.8	0.08	1.528	NA
+Ccar_12_18S-T2	Ccar_12	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.03	1.027	NA
+Ccar_13_18S-T2	Ccar_13	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.2	0.12	2.1918	NA
+Ccar_14_18S-T2	Ccar_14	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.4	0.1	5.3271	1:10
+Ccar_15_18S-T2	Ccar_15	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.2	0.07	7.8822	1:10
+Ccar_16_18S-T2	Ccar_16	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.8	0.07	17.1157	1:10
+Ccar_17_18S-T2	Ccar_17	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.01	0.4144	NA
+Ccar_18_18S-T2	Ccar_18	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6	0.02	2.4134	NA
+Ccar_19_18S-T2	Ccar_19	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.02	1.373	NA
+Ccar_20_18S-T2	Ccar_20	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.01	2.4842	NA
+Ccar_21_18S-T2	Ccar_21	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6	0.01	9.6978	1:10
+Ccar_22_18S-T2	Ccar_22	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.17	3.6157	NA
+Ccar_23_18S-T2	Ccar_23	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.06	0.7208	NA
+Ccar_24_18S-T2	Ccar_24	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.01	0.8591	NA
+dis_BL_18S-T2	dis_BL	Blank	NA	NA	dissection_blank	BL	NA	NA	NA	0.1331	NA
+Ecae_01_18S-T2	Ecae_01	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.02	2.1379	1:10
+Ecae_02_18S-T2	Ecae_02	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.7455	1:10
+Ecae_03_18S-T2	Ecae_03	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	8.2042	1:10
+Ecae_04_18S-T2	Ecae_04	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.5	0.01	0.3795	1:10
+Ecae_05_18S-T2	Ecae_05	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.2267	1:10
+Ecae_06_18S-T2	Ecae_06	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.03	29.7845	1:30
+Ecae_07_18S-T2	Ecae_07	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	0.04	16.5306	1:10
+Ecae_08_18S-T2	Ecae_08	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	0.02	0.5239	1:10
+Ecae_09_18S-T2	Ecae_09	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	0.01	0.5405	1:10
+Ecae_10_18S-T2	Ecae_10	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.2485	NA
+Ecae_11_18S-T2	Ecae_11	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	0.01	0.8498	1:10
+Ecae_12_18S-T2	Ecae_12	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.4	0.01	4.2076	1:10
+Ecae_13_18S-T2	Ecae_13	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	0.02	3.7346	1:10
+Ecae_14_18S-T2	Ecae_14	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	20.9793	1:10
+Ecae_15_18S-T2	Ecae_15	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	0.01	0.5782	NA
+Ecae_16_18S-T2	Ecae_16	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.5337	NA
+Ecae_17_18S-T2	Ecae_17	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.02	0.8581	NA
+Ecae_18_18S-T2	Ecae_18	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	0.01	1.2677	NA
+Ecae_19_18S-T2	Ecae_19	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	0.01	0.3503	NA
+Ecae_20_18S-T2	Ecae_20	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.1	0.01	0.1037	NA
+Ecae_21_18S-T2	Ecae_21	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.9	0.01	1.1251	NA
+Etet_01_18S-T2	Etet_01	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	6	8.1	0.05	3.8592	NA
+Etet_02_18S-T2	Etet_02	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.08	2.5939	NA
+Etet_03_18S-T2	Etet_03	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.05	2.7966	NA
+Etet_04_18S-T2	Etet_04	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.5	0.03	0.9679	NA
+Etet_05_18S-T2	Etet_05	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	7.1	0.05	2.578	NA
+Etet_06_18S-T2	Etet_06	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.4	0.02	1.9609	NA
+Etet_07_18S-T2	Etet_07	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.05	3.2621	NA
+Etet_08_18S-T2	Etet_08	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.2	0.05	1.5978	NA
+Etet_09_18S-T2	Etet_09	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.5	0.06	1.8162	NA
+Etet_10_18S-T2	Etet_10	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.4	0.05	1.3086	NA
+Etet_11_18S-T2	Etet_11	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.5	0.09	1.175	NA
+Etet_12_18S-T2	Etet_12	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.8	0.01	0.8513	NA
+Etet_13_18S-T2	Etet_13	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.9	0.07	4.488	NA
+Etet_14_18S-T2	Etet_14	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.01	0.834	NA
+Etet_15_18S-T2	Etet_15	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.9	0.04	1.0933	NA
+Etet_16_18S-T2	Etet_16	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.1	0.03	1.2316	NA
+Etet_17_18S-T2	Etet_17	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.4	0.05	1.3165	NA
+Etet_18_18S-T2	Etet_18	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.6	0.12	1.5946	NA
+Etet_19_18S-T2	Etet_19	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.04	1.2929	NA
+Etet_20_18S-T2	Etet_20	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.2	0.01	0.6391	NA
+Etet_21_18S-T2	Etet_21	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.4	0.05	1.1907	NA
+Etet_22_18S-T2	Etet_22	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	2	5.5	0.01	0.1881	NA
+Etet_23_18S-T2	Etet_23	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.3	0.03	0.7098	NA
+Etet_24_18S-T2	Etet_24	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.01	0.5904	NA
+ext_BL1_18S-T2	ext_BL1	Blank	NA	NA	extraction_blank_1	BL	NA	NA	NA	0.1205	NA
+ext_BL2_18S-T2	ext_BL2	Blank	NA	NA	extraction_blank_2	BL	NA	NA	NA	0.0953	NA
+Foli_01_18S-T2	Foli_01	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	0.3787	NA
+Foli_02_18S-T2	Foli_02	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	6	0.04	0.7697	NA
+Foli_03_18S-T2	Foli_03	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	7.5	0.06	0.7864	NA
+Foli_04_18S-T2	Foli_04	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	6.7	0.02	8.9416	1:10
+Foli_05_18S-T2	Foli_05	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	5.8	0.03	1.793	NA
+Foli_06_18S-T2	Foli_06	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	5	8.2	0.07	4.794	NA
+Foli_07_18S-T2	Foli_07	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5	0.01	0.6876	NA
+Foli_08_18S-T2	Foli_08	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.4	0.06	2.185	NA
+Foli_09_18S-T2	Foli_09	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	4.3	0.01	0.1844	NA
+Foli_10_18S-T2	Foli_10	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	2.0938	NA
+Hnig_01_18S-T2	Hnig_01	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	18	11.9	0.16	2.4071	1:10
+Hnig_02_18S-T2	Hnig_02	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	11	10.9	0.12	2.2362	1:10
+Hnig_03_18S-T2	Hnig_03	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	246	31.4	1.9	33.9774	1:10
+Hnig_04_18S-T2	Hnig_04	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	104	20.2	1.64	8.0775	1:10
+Hnig_05_18S-T2	Hnig_05	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	139	25.3	3.01	3.7084	1:20
+Hnig_06_18S-T2	Hnig_06	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	125	23.6	0.73	7.7066	1:10
+Hnig_07_18S-T2	Hnig_07	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	142	22.9	0.79	6.7526	1:10
+Hnig_08_18S-T2	Hnig_08	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	100	19.8	1.54	4.9311	1:10
+Hnig_09_18S-T2	Hnig_09	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	152	22.3	0.82	4.4298	1:10
+Hnig_10_18S-T2	Hnig_10	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	101	20.9	2.66	3.3643	1:10
+Hnig_11_18S-T2	Hnig_11	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	20.7	0.86	22.9825	1:10
+Hnig_12_18S-T2	Hnig_12	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	177	24.5	2.45	13.16	1:10
+Hnig_13_18S-T2	Hnig_13	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	18.9	1.07	10.4836	1:10
+Hnig_14_18S-T2	Hnig_14	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	368	32.6	6.08	5.4325	1:10
+Lmac_01_18S-T2	Lmac_01	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	5.9	0.08	3.0507	1:10
+Lmac_02_18S-T2	Lmac_02	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	16	9.6	0.38	3.174	1:10
+Lmac_03_18S-T2	Lmac_03	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.9	0.73	3.475	1:10
+Lmac_04_18S-T2	Lmac_04	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	19	9.9	0.58	0.9838	1:10
+Lmac_05_18S-T2	Lmac_05	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.06	0.3954	NA
+Lmac_06_18S-T2	Lmac_06	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	15	9.2	0.39	1.2742	1:10
+Lmac_07_18S-T2	Lmac_07	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	24	10.7	0.62	0.4582	1:10
+Lmac_08_18S-T2	Lmac_08	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.05	0.8301	1:10
+Lmac_09_18S-T2	Lmac_09	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	6	0.1	1.0723	1:10
+Lmac_10_18S-T2	Lmac_10	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.3	0.07	2.0651	1:10
+Lmac_11_18S-T2	Lmac_11	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	4.6	0.03	0.6249	NA
+Lmac_12_18S-T2	Lmac_12	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	13	9	0.32	2.1979	1:10
+Lmac_13_18S-T2	Lmac_13	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	4.9	0.03	3.9979	1:10
+Lmac_14_18S-T2	Lmac_14	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.1	0.02	0.3647	NA
+Lmac_15_18S-T2	Lmac_15	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	5	0.02	0.5306	1:10
+Lmac_16_18S-T2	Lmac_16	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.8	0.13	3.5611	1:10
+Lmac_17_18S-T2	Lmac_17	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	21	10.5	0.48	1.402	1:10
+Lmac_18_18S-T2	Lmac_18	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	73	15.6	1.49	5.5006	1:20
+Lmac_19_18S-T2	Lmac_19	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	75	15.4	2.58	2.3201	1:10
+Lmac_20_18S-T2	Lmac_20	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	102	16.3	3.08	8.0444	1:20
+Lmeg_01_18S-T2	Lmeg_01	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	31	11.4	0.47	0.6979	1:10
+Lmeg_02_18S-T2	Lmeg_02	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.6	0.39	2.0146	1:10
+Lmeg_03_18S-T2	Lmeg_03	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	12.6	0.81	5.3665	1:20
+Lmeg_04_18S-T2	Lmeg_04	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	9.3	0.33	1.6312	1:10
+Lmeg_05_18S-T2	Lmeg_05	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	25	10.1	0.28	5.2092	1:20
+Lmeg_06_18S-T2	Lmeg_06	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.7	0.37	1.7839	1:10
+Lmeg_07_18S-T2	Lmeg_07	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	10	7.8	0.18	1.4178	1:10
+Lmeg_08_18S-T2	Lmeg_08	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	11	8	0.09	3.1416	1:10
+Lmeg_09_18S-T2	Lmeg_09	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.8	0.23	4.2362	1:10
+Lmeg_10_18S-T2	Lmeg_10	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.9	0.3	2.5034	1:10
+Lmeg_11_18S-T2	Lmeg_11	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	50	12.4	2.69	18.3691	1:20
+Lmeg_12_18S-T2	Lmeg_12	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	17	9.2	0.22	6.7076	1:20
+Lmeg_13_18S-T2	Lmeg_13	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	43	11.7	1.21	10.8304	1:20
+Lmeg_14_18S-T2	Lmeg_14	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	52	13.4	0.81	3.002	1:20
+Lmeg_15_18S-T2	Lmeg_15	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	13	8.2	0.29	5.4063	1:20
+Lmeg_16_18S-T2	Lmeg_16	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	21	10.2	0.26	4.7802	1:20
+Lmeg_17_18S-T2	Lmeg_17	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	11.8	1.49	7.2568	1:20
+Lmeg_18_18S-T2	Lmeg_18	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	8.6	0.13	1.2549	1:20
+Lmeg_19_18S-T2	Lmeg_19	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	109	14.7	1.36	6.4783	1:20
+Lmeg_20_18S-T2	Lmeg_20	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	111	16.3	0.6	9.8459	1:20
+Lzon_01_18S-T2	Lzon_01	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.1	0.08	1.3869	1:10
+Lzon_02_18S-T2	Lzon_02	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.07	1.0087	1:10
+Lzon_03_18S-T2	Lzon_03	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.9	0.09	5.6054	1:10
+Lzon_04_18S-T2	Lzon_04	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.6	0.14	3.2244	1:10
+Lzon_05_18S-T2	Lzon_05	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.5	0.13	0.9189	1:10
+Lzon_06_18S-T2	Lzon_06	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.3	0.09	0.5307	1:10
+Lzon_07_18S-T2	Lzon_07	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.3	0.03	0.4175	1:10
+Lzon_08_18S-T2	Lzon_08	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	8.7	0.11	17.3986	1:10
+Lzon_09_18S-T2	Lzon_09	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.11	1.0792	1:10
+Lzon_10_18S-T2	Lzon_10	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.3	0.14	4.9531	1:10
+Lzon_11_18S-T2	Lzon_11	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.9	0.12	2.0064	1:10
+Lzon_12_18S-T2	Lzon_12	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.12	1.01	1:10
+Lzon_13_18S-T2	Lzon_13	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.5	0.07	0.9079	1:10
+Lzon_14_18S-T2	Lzon_14	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.13	0.5165	1:10
+Lzon_15_18S-T2	Lzon_15	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	3	7.1	0.06	7.3483	1:20
+Lzon_16_18S-T2	Lzon_16	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.4	0.05	0.713	1:10
+Lzon_17_18S-T2	Lzon_17	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	10.1	0.07	6.531	1:10
+Lzon_18_18S-T2	Lzon_18	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10	0.07	1.7895	1:10
+Lzon_19_18S-T2	Lzon_19	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	9.5	0.04	6.7369	1:20
+Lzon_20_18S-T2	Lzon_20	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.09	0.9519	1:10
+Lzon_21_18S-T2	Lzon_21	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	7.8	0.11	0.9691	1:10
+Lzon_22_18S-T2	Lzon_22	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.2	0.12	0.8026	1:10
+Lzon_23_18S-T2	Lzon_23	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.6	0.04	16.8816	1:20
+Lzon_24_18S-T2	Lzon_24	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.05	5.9432	1:10
+Mdol_01_18S-T2	Mdol_01	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	8.9	0.19	12.3661	1:10
+Mdol_02_18S-T2	Mdol_02	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	13	11	0.07	9.1768	1:10
+Mdol_03_18S-T2	Mdol_03	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	18	11.8	0.19	10.7045	1:10
+Mdol_04_18S-T2	Mdol_04	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	126	21.4	4.5	10.2152	1:10
+Mdol_05_18S-T2	Mdol_05	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	66	17.1	5.97	5.6792	1:10
+Mdol_06_18S-T2	Mdol_06	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	7.9	0.25	11.1044	1:10
+Mdol_07_18S-T2	Mdol_07	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	9	10.4	0.1	19.7434	1:10
+Mdol_08_18S-T2	Mdol_08	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	76	18.4	1.64	4.8164	1:10
+Mdol_09_18S-T2	Mdol_09	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	116	20.9	1.4	6.3409	1:10
+Mdol_10_18S-T2	Mdol_10	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	171	23.3	3.31	17.5039	1:10
+Mdol_11_18S-T2	Mdol_11	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	395	29.4	10.96	9.8235	1:10
+Mdol_12_18S-T2	Mdol_12	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	420	32.4	1.12	74.4821	1:10
+Mdol_13_18S-T2	Mdol_13	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	374	30.9	4.92	22.6289	1:10
+Mduq_01_18S-T2	Mduq_01	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	89	20.3	1.44	6.2537	1:10
+Mduq_02_18S-T2	Mduq_02	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	79	20.2	1.36	5.9761	1:20
+Mduq_03_18S-T2	Mduq_03	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	72	18.9	1.4	3.1347	1:10
+Mduq_04_18S-T2	Mduq_04	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	170	24.6	2.11	5.3756	1:10
+Mduq_05_18S-T2	Mduq_05	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	99	20.9	1.51	4.9143	1:20
+Mduq_06_18S-T2	Mduq_06	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	123	22.1	1.83	2.358	1:10
+Mduq_07_18S-T2	Mduq_07	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	48	16.8	0.78	9.1889	1:10
+Mduq_08_18S-T2	Mduq_08	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	418	32.4	5.96	2.9787	1:10
+Mduq_09_18S-T2	Mduq_09	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	335	32.1	2.36	2.6724	1:10
+Mduq_10_18S-T2	Mduq_10	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	329	29.9	2.94	3.5128	1:10
+Nbig_01_18S-T2	Nbig_01	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	3	5.9	0.08	0.5149	NA
+Nbig_02_18S-T2	Nbig_02	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	4	7.7	0.22	16.2611	1:30
+Nbig_03_18S-T2	Nbig_03	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	8.2	0.11	0.7826	1:10
+Nbig_04_18S-T2	Nbig_04	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	27	13.3	0.54	4.1179	1:10
+Nbig_05_18S-T2	Nbig_05	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	130	21.9	0.94	2.3837	1:10
+Nbig_06_18S-T2	Nbig_06	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	19	12	0.37	3.9318	1:20
+Nbig_07_18S-T2	Nbig_07	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	7.6	0.1	1.6494	1:10
+Nbig_08_18S-T2	Nbig_08	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	18	11.4	0.47	2.1647	1:10
+Nbig_09_18S-T2	Nbig_09	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	62	16.9	2.57	0.6332	1:10
+Nbig_10_18S-T2	Nbig_10	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	6	8.8	0.21	2.2831	1:10
+Nbig_11_18S-T2	Nbig_11	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	109	21.2	0.92	3.2812	1:10
+Nbig_12_18S-T2	Nbig_12	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	83	18.4	1.03	5.8921	1:20
+Nbig_13_18S-T2	Nbig_13	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	118	20.2	3.46	6.4315	1:20
+Nexi_01_18S-T2	Nexi_01	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	4	8.3	0.13	1.7378	1:10
+Nexi_02_18S-T2	Nexi_02	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.2	0.02	0.2116	NA
+Nexi_03_18S-T2	Nexi_03	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.07	7.9894	1:10
+Nexi_04_18S-T2	Nexi_04	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.02	0.3076	NA
+Nexi_05_18S-T2	Nexi_05	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.6	0.05	0.2638	NA
+Nexi_06_18S-T2	Nexi_06	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.06	0.148	NA
+Nexi_07_18S-T2	Nexi_07	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.5	0.01	0.1896	NA
+Nexi_08_18S-T2	Nexi_08	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	9	10.1	0.07	68.1879	1:30
+Nexi_09_18S-T2	Nexi_09	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.6	0.01	0.2824	NA
+Nexi_10_18S-T2	Nexi_10	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.16	58.9752	1:20
+PCR_BL1_18S-T2	PCR_BL1	Blank	NA	NA	PCR_blank_1	BL	NA	NA	NA	NA	NA
+PCR_BL2_18S-T2	PCR_BL2	Blank	NA	NA	PCR_blank_2	BL	NA	NA	NA	NA	NA
+PCR_BL3_18S-T2	PCR_BL3	Blank	NA	NA	PCR_blank_3	BL	NA	NA	NA	NA	NA
+Anat_01_18S-T1	Anat_01	Omnivore	Benthic	Ictaluridae	Ameiurus_natalis	Anat	236	25.4	9.68	28.898	1:20
+Arup_01_18S-T1	Arup_01	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	4	6	0.07	4.7464	1:20
+Arup_02_18S-T1	Arup_02	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	15	8.9	0.67	6.684	1:20
+Arup_03_18S-T1	Arup_03	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	82	15.7	0.53	13.3372	1:20
+Arup_04_18S-T1	Arup_04	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	113	17.2	1.26	8.4817	1:20
+Arup_05_18S-T1	Arup_05	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	74	15.4	2.97	1.6856	1:10
+Arup_06_18S-T1	Arup_06	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	26	10.7	0.32	0.9293	NA
+Arup_07_18S-T1	Arup_07	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	101	16.4	0.87	NA	1:30
+Arup_08_18S-T1	Arup_08	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	157	19.1	0.57	9.0417	1:20
+Arup_09_18S-T1	Arup_09	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	62	14.3	2.5	4.8873	1:20
+Cano_01_18S-T1	Cano_01	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	3	6.7	0.26	2.4275	NA
+Cano_02_18S-T1	Cano_02	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	12	9.9	1.28	1.0042	NA
+Cano_03_18S-T1	Cano_03	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	7	8.8	0.55	0.2887	NA
+Cano_04_18S-T1	Cano_04	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	5	8	0.65	0.8128	NA
+Cano_05_18S-T1	Cano_05	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	11.1	2.25	0.4249	NA
+Cano_06_18S-T1	Cano_06	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	23	13.3	2.88	5.4331	1:10
+Cano_07_18S-T1	Cano_07	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	12.3	2.03	2.3759	NA
+Cano_08_18S-T1	Cano_08	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	16	11.9	2.42	3.7361	NA
+Cano_09_18S-T1	Cano_09	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	10	9.7	1.08	1.1304	NA
+Cano_10_18S-T1	Cano_10	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.3	1.82	3.6682	NA
+Cano_11_18S-T1	Cano_11	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	10.2	1.04	2.0432	NA
+Cano_12_18S-T1	Cano_12	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.5	1.15	0.8784	NA
+Cano_13_18S-T1	Cano_13	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9.7	0.77	0.9757	NA
+Cano_14_18S-T1	Cano_14	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.9	0.9	0.1587	NA
+Cano_15_18S-T1	Cano_15	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.8	0.71	0.5457	NA
+Cano_16_18S-T1	Cano_16	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	26	13.2	2.8	1.4472	NA
+Cano_17_18S-T1	Cano_17	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.4	1.44	1.8946	NA
+Cano_18_18S-T1	Cano_18	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.8	1.57	0.4514	NA
+Cano_19_18S-T1	Cano_19	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9	1.03	0.3277	NA
+Cano_20_18S-T1	Cano_20	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.1	1.04	0.2621	NA
+Cano_21_18S-T1	Cano_21	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	9.3	0.79	0.3036	NA
+Cano_22_18S-T1	Cano_22	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.3	0.87	0.2953	NA
+Cano_23_18S-T1	Cano_23	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	15	11	1.32	1.792	NA
+Cano_24_18S-T1	Cano_24	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.4	1.35	0.5601	NA
+Ccar_01_18S-reseq	Ccar_01	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.12	0.0981	NA
+Ccar_01_18S-T1	Ccar_01	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.12	0.0981	NA
+Ccar_02_18S-T1	Ccar_02	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.9	0.08	0.9346	NA
+Ccar_03_18S-T1	Ccar_03	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	7	0.04	0.5179	NA
+Ccar_04_18S-T1	Ccar_04	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.5	0.07	2.8465	NA
+Ccar_05_18S-T1	Ccar_05	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.02	0.6903	NA
+Ccar_06_18S-T1	Ccar_06	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.3	0.07	1.2091	NA
+Ccar_07_18S-T1	Ccar_07	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.1	0.03	1.1764	NA
+Ccar_08_18S-T1	Ccar_08	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.6	0.05	1.442	NA
+Ccar_09_18S-T1	Ccar_09	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.04	2.1005	NA
+Ccar_10_18S-T1	Ccar_10	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.7	0.04	2.3502	NA
+Ccar_11_18S-T1	Ccar_11	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	6.8	0.08	1.528	NA
+Ccar_12_18S-T1	Ccar_12	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.03	1.027	NA
+Ccar_13_18S-T1	Ccar_13	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.2	0.12	2.1918	NA
+Ccar_14_18S-T1	Ccar_14	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.4	0.1	5.3271	1:10
+Ccar_15_18S-T1	Ccar_15	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.2	0.07	7.8822	1:10
+Ccar_16_18S-T1	Ccar_16	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.8	0.07	17.1157	1:10
+Ccar_17_18S-T1	Ccar_17	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.01	0.4144	NA
+Ccar_18_18S-T1	Ccar_18	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6	0.02	2.4134	NA
+Ccar_19_18S-T1	Ccar_19	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.02	1.373	NA
+Ccar_20_18S-T1	Ccar_20	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.01	2.4842	NA
+Ccar_21_18S-T1	Ccar_21	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6	0.01	9.6978	1:10
+Ccar_22_18S-T1	Ccar_22	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.17	3.6157	NA
+Ccar_23_18S-T1	Ccar_23	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.06	0.7208	NA
+Ccar_24_18S-T1	Ccar_24	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.01	0.8591	NA
+dis_BL_18S-T1	dis_BL	Blank	NA	NA	dissection_blank	BL	NA	NA	NA	0.1331	NA
+Ecae_01_18S-T1	Ecae_01	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.02	2.1379	1:10
+Ecae_02_18S-T1	Ecae_02	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.7455	1:10
+Ecae_03_18S-T1	Ecae_03	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	8.2042	1:10
+Ecae_04_18S-T1	Ecae_04	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.5	0.01	0.3795	1:10
+Ecae_05_18S-reseq	Ecae_05	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.2267	1:10
+Ecae_05_18S-T1	Ecae_05	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.2267	1:10
+Ecae_06_18S-T1	Ecae_06	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.03	29.7845	1:30
+Ecae_07_18S-T1	Ecae_07	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	0.04	16.5306	1:10
+Ecae_08_18S-T1	Ecae_08	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	0.02	0.5239	1:10
+Ecae_09_18S-T1	Ecae_09	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	0.01	0.5405	1:10
+Ecae_10_18S-reseq	Ecae_10	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.2485	NA
+Ecae_10_18S-T1	Ecae_10	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.2485	NA
+Ecae_11_18S-T1	Ecae_11	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	0.01	0.8498	1:10
+Ecae_12_18S-T1	Ecae_12	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.4	0.01	4.2076	1:10
+Ecae_13_18S-T1	Ecae_13	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	0.02	3.7346	1:10
+Ecae_14_18S-T1	Ecae_14	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	20.9793	1:10
+Ecae_15_18S-T1	Ecae_15	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	0.01	0.5782	NA
+Ecae_16_18S-T1	Ecae_16	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.5337	NA
+Ecae_17_18S-T1	Ecae_17	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.02	0.8581	NA
+Ecae_18_18S-T1	Ecae_18	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	0.01	1.2677	NA
+Ecae_19_18S-T1	Ecae_19	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	0.01	0.3503	NA
+Ecae_20_18S-reseq	Ecae_20	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.1	0.01	0.1037	NA
+Ecae_20_18S-T1	Ecae_20	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.1	0.01	0.1037	NA
+Ecae_21_18S-T1	Ecae_21	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.9	0.01	1.1251	NA
+Etet_01_18S-T1	Etet_01	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	6	8.1	0.05	3.8592	NA
+Etet_02_18S-T1	Etet_02	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.08	2.5939	NA
+Etet_03_18S-T1	Etet_03	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.05	2.7966	NA
+Etet_04_18S-T1	Etet_04	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.5	0.03	0.9679	NA
+Etet_05_18S-T1	Etet_05	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	7.1	0.05	2.578	NA
+Etet_06_18S-T1	Etet_06	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.4	0.02	1.9609	NA
+Etet_07_18S-T1	Etet_07	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.05	3.2621	NA
+Etet_08_18S-T1	Etet_08	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.2	0.05	1.5978	NA
+Etet_09_18S-T1	Etet_09	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.5	0.06	1.8162	NA
+Etet_10_18S-T1	Etet_10	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.4	0.05	1.3086	NA
+Etet_11_18S-T1	Etet_11	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.5	0.09	1.175	NA
+Etet_12_18S-T1	Etet_12	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.8	0.01	0.8513	NA
+Etet_13_18S-T1	Etet_13	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.9	0.07	4.488	NA
+Etet_14_18S-T1	Etet_14	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.01	0.834	NA
+Etet_15_18S-T1	Etet_15	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.9	0.04	1.0933	NA
+Etet_16_18S-T1	Etet_16	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.1	0.03	1.2316	NA
+Etet_17_18S-T1	Etet_17	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.4	0.05	1.3165	NA
+Etet_18_18S-T1	Etet_18	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.6	0.12	1.5946	NA
+Etet_19_18S-T1	Etet_19	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.04	1.2929	NA
+Etet_20_18S-T1	Etet_20	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.2	0.01	0.6391	NA
+Etet_21_18S-T1	Etet_21	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.4	0.05	1.1907	NA
+Etet_22_18S-reseq	Etet_22	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	2	5.5	0.01	0.1881	NA
+Etet_22_18S-T1	Etet_22	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	2	5.5	0.01	0.1881	NA
+Etet_23_18S-T1	Etet_23	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.3	0.03	0.7098	NA
+Etet_24_18S-T1	Etet_24	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.01	0.5904	NA
+ext_BL1_18S-T1	ext_BL1	Blank	NA	NA	extraction_blank_1	BL	NA	NA	NA	0.1205	NA
+ext_BL2_18S-T1	ext_BL2	Blank	NA	NA	extraction_blank_2	BL	NA	NA	NA	0.0953	NA
+Foli_01_18S-T1	Foli_01	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	0.3787	NA
+Foli_02_18S-T1	Foli_02	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	6	0.04	0.7697	NA
+Foli_03_18S-T1	Foli_03	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	7.5	0.06	0.7864	NA
+Foli_04_18S-T1	Foli_04	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	6.7	0.02	8.9416	1:10
+Foli_05_18S-T1	Foli_05	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	5.8	0.03	1.793	NA
+Foli_06_18S-T1	Foli_06	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	5	8.2	0.07	4.794	NA
+Foli_07_18S-T1	Foli_07	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5	0.01	0.6876	NA
+Foli_08_18S-T1	Foli_08	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.4	0.06	2.185	NA
+Foli_09_18S-reseq	Foli_09	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	4.3	0.01	0.1844	NA
+Foli_09_18S-T1	Foli_09	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	4.3	0.01	0.1844	NA
+Foli_10_18S-T1	Foli_10	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	2.0938	NA
+Hnig_01_18S-T1	Hnig_01	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	18	11.9	0.16	2.4071	1:10
+Hnig_02_18S-T1	Hnig_02	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	11	10.9	0.12	2.2362	1:10
+Hnig_03_18S-T1	Hnig_03	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	246	31.4	1.9	33.9774	1:10
+Hnig_04_18S-T1	Hnig_04	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	104	20.2	1.64	8.0775	1:10
+Hnig_05_18S-T1	Hnig_05	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	139	25.3	3.01	3.7084	1:20
+Hnig_06_18S-T1	Hnig_06	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	125	23.6	0.73	7.7066	1:10
+Hnig_07_18S-T1	Hnig_07	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	142	22.9	0.79	6.7526	1:10
+Hnig_08_18S-T1	Hnig_08	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	100	19.8	1.54	4.9311	1:10
+Hnig_09_18S-T1	Hnig_09	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	152	22.3	0.82	4.4298	1:10
+Hnig_10_18S-T1	Hnig_10	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	101	20.9	2.66	3.3643	1:10
+Hnig_11_18S-T1	Hnig_11	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	20.7	0.86	22.9825	1:10
+Hnig_12_18S-reseq	Hnig_12	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	177	24.5	2.45	13.16	1:10
+Hnig_12_18S-T1	Hnig_12	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	177	24.5	2.45	13.16	1:10
+Hnig_13_18S-reseq	Hnig_13	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	18.9	1.07	10.4836	1:10
+Hnig_13_18S-T1	Hnig_13	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	18.9	1.07	10.4836	1:10
+Hnig_14_18S-T1	Hnig_14	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	368	32.6	6.08	5.4325	1:10
+Lmac_01_18S-T1	Lmac_01	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	5.9	0.08	3.0507	1:10
+Lmac_02_18S-T1	Lmac_02	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	16	9.6	0.38	3.174	1:10
+Lmac_03_18S-T1	Lmac_03	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.9	0.73	3.475	1:10
+Lmac_04_18S-T1	Lmac_04	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	19	9.9	0.58	0.9838	1:10
+Lmac_05_18S-T1	Lmac_05	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.06	0.3954	NA
+Lmac_06_18S-T1	Lmac_06	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	15	9.2	0.39	1.2742	1:10
+Lmac_07_18S-reseq	Lmac_07	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	24	10.7	0.62	0.4582	1:10
+Lmac_07_18S-T1	Lmac_07	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	24	10.7	0.62	0.4582	1:10
+Lmac_08_18S-T1	Lmac_08	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.05	0.8301	1:10
+Lmac_09_18S-T1	Lmac_09	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	6	0.1	1.0723	1:10
+Lmac_10_18S-T1	Lmac_10	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.3	0.07	2.0651	1:10
+Lmac_11_18S-T1	Lmac_11	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	4.6	0.03	0.6249	NA
+Lmac_12_18S-T1	Lmac_12	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	13	9	0.32	2.1979	1:10
+Lmac_13_18S-T1	Lmac_13	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	4.9	0.03	3.9979	1:10
+Lmac_14_18S-T1	Lmac_14	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.1	0.02	0.3647	NA
+Lmac_15_18S-T1	Lmac_15	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	5	0.02	0.5306	1:10
+Lmac_16_18S-T1	Lmac_16	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.8	0.13	3.5611	1:10
+Lmac_17_18S-T1	Lmac_17	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	21	10.5	0.48	1.402	1:10
+Lmac_18_18S-T1	Lmac_18	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	73	15.6	1.49	5.5006	1:20
+Lmac_19_18S-T1	Lmac_19	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	75	15.4	2.58	2.3201	1:10
+Lmac_20_18S-T1	Lmac_20	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	102	16.3	3.08	8.0444	1:20
+Lmeg_01_18S-T1	Lmeg_01	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	31	11.4	0.47	0.6979	1:10
+Lmeg_02_18S-T1	Lmeg_02	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.6	0.39	2.0146	1:10
+Lmeg_03_18S-T1	Lmeg_03	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	12.6	0.81	5.3665	1:20
+Lmeg_04_18S-T1	Lmeg_04	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	9.3	0.33	1.6312	1:10
+Lmeg_05_18S-T1	Lmeg_05	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	25	10.1	0.28	5.2092	1:20
+Lmeg_06_18S-T1	Lmeg_06	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.7	0.37	1.7839	1:10
+Lmeg_07_18S-T1	Lmeg_07	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	10	7.8	0.18	1.4178	1:10
+Lmeg_08_18S-T1	Lmeg_08	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	11	8	0.09	3.1416	1:10
+Lmeg_09_18S-T1	Lmeg_09	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.8	0.23	4.2362	1:10
+Lmeg_10_18S-T1	Lmeg_10	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.9	0.3	2.5034	1:10
+Lmeg_11_18S-T1	Lmeg_11	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	50	12.4	2.69	18.3691	1:20
+Lmeg_12_18S-T1	Lmeg_12	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	17	9.2	0.22	6.7076	1:20
+Lmeg_13_18S-T1	Lmeg_13	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	43	11.7	1.21	10.8304	1:20
+Lmeg_14_18S-T1	Lmeg_14	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	52	13.4	0.81	3.002	1:20
+Lmeg_15_18S-T1	Lmeg_15	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	13	8.2	0.29	5.4063	1:20
+Lmeg_16_18S-T1	Lmeg_16	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	21	10.2	0.26	4.7802	1:20
+Lmeg_17_18S-T1	Lmeg_17	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	11.8	1.49	7.2568	1:20
+Lmeg_18_18S-T1	Lmeg_18	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	8.6	0.13	1.2549	1:20
+Lmeg_19_18S-T1	Lmeg_19	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	109	14.7	1.36	6.4783	1:20
+Lmeg_20_18S-T1	Lmeg_20	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	111	16.3	0.6	9.8459	1:20
+Lzon_01_18S-T1	Lzon_01	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.1	0.08	1.3869	1:10
+Lzon_02_18S-T1	Lzon_02	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.07	1.0087	1:10
+Lzon_03_18S-T1	Lzon_03	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.9	0.09	5.6054	1:10
+Lzon_04_18S-T1	Lzon_04	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.6	0.14	3.2244	1:10
+Lzon_05_18S-T1	Lzon_05	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.5	0.13	0.9189	1:10
+Lzon_06_18S-T1	Lzon_06	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.3	0.09	0.5307	1:10
+Lzon_07_18S-T1	Lzon_07	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.3	0.03	0.4175	1:10
+Lzon_08_18S-T1	Lzon_08	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	8.7	0.11	17.3986	1:10
+Lzon_09_18S-T1	Lzon_09	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.11	1.0792	1:10
+Lzon_10_18S-T1	Lzon_10	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.3	0.14	4.9531	1:10
+Lzon_11_18S-T1	Lzon_11	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.9	0.12	2.0064	1:10
+Lzon_12_18S-T1	Lzon_12	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.12	1.01	1:10
+Lzon_13_18S-T1	Lzon_13	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.5	0.07	0.9079	1:10
+Lzon_14_18S-T1	Lzon_14	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.13	0.5165	1:10
+Lzon_15_18S-T1	Lzon_15	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	3	7.1	0.06	7.3483	1:20
+Lzon_16_18S-T1	Lzon_16	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.4	0.05	0.713	1:10
+Lzon_17_18S-T1	Lzon_17	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	10.1	0.07	6.531	1:10
+Lzon_18_18S-T1	Lzon_18	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10	0.07	1.7895	1:10
+Lzon_19_18S-T1	Lzon_19	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	9.5	0.04	6.7369	1:20
+Lzon_20_18S-T1	Lzon_20	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.09	0.9519	1:10
+Lzon_21_18S-T1	Lzon_21	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	7.8	0.11	0.9691	1:10
+Lzon_22_18S-T1	Lzon_22	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.2	0.12	0.8026	1:10
+Lzon_23_18S-T1	Lzon_23	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.6	0.04	16.8816	1:20
+Lzon_24_18S-T1	Lzon_24	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.05	5.9432	1:10
+Mdol_01_18S-T1	Mdol_01	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	8.9	0.19	12.3661	1:10
+Mdol_02_18S-T1	Mdol_02	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	13	11	0.07	9.1768	1:10
+Mdol_03_18S-T1	Mdol_03	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	18	11.8	0.19	10.7045	1:10
+Mdol_04_18S-T1	Mdol_04	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	126	21.4	4.5	10.2152	1:10
+Mdol_05_18S-T1	Mdol_05	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	66	17.1	5.97	5.6792	1:10
+Mdol_06_18S-T1	Mdol_06	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	7.9	0.25	11.1044	1:10
+Mdol_07_18S-T1	Mdol_07	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	9	10.4	0.1	19.7434	1:10
+Mdol_08_18S-T1	Mdol_08	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	76	18.4	1.64	4.8164	1:10
+Mdol_09_18S-T1	Mdol_09	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	116	20.9	1.4	6.3409	1:10
+Mdol_10_18S-T1	Mdol_10	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	171	23.3	3.31	17.5039	1:10
+Mdol_11_18S-T1	Mdol_11	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	395	29.4	10.96	9.8235	1:10
+Mdol_12_18S-T1	Mdol_12	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	420	32.4	1.12	74.4821	1:10
+Mdol_13_18S-T1	Mdol_13	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	374	30.9	4.92	22.6289	1:10
+Mduq_01_18S-T1	Mduq_01	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	89	20.3	1.44	6.2537	1:10
+Mduq_02_18S-T1	Mduq_02	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	79	20.2	1.36	5.9761	1:20
+Mduq_03_18S-T1	Mduq_03	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	72	18.9	1.4	3.1347	1:10
+Mduq_04_18S-T1	Mduq_04	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	170	24.6	2.11	5.3756	1:10
+Mduq_05_18S-reseq	Mduq_05	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	99	20.9	1.51	4.9143	1:20
+Mduq_05_18S-T1	Mduq_05	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	99	20.9	1.51	4.9143	1:20
+Mduq_06_18S-T1	Mduq_06	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	123	22.1	1.83	2.358	1:10
+Mduq_07_18S-reseq	Mduq_07	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	48	16.8	0.78	9.1889	1:10
+Mduq_07_18S-T1	Mduq_07	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	48	16.8	0.78	9.1889	1:10
+Mduq_08_18S-T1	Mduq_08	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	418	32.4	5.96	2.9787	1:10
+Mduq_09_18S-T1	Mduq_09	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	335	32.1	2.36	2.6724	1:10
+Mduq_10_18S-T1	Mduq_10	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	329	29.9	2.94	3.5128	1:10
+Nbig_01_18S-T1	Nbig_01	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	3	5.9	0.08	0.5149	NA
+Nbig_02_18S-T1	Nbig_02	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	4	7.7	0.22	16.2611	1:30
+Nbig_03_18S-T1	Nbig_03	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	8.2	0.11	0.7826	1:10
+Nbig_04_18S-T1	Nbig_04	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	27	13.3	0.54	4.1179	1:10
+Nbig_05_18S-T1	Nbig_05	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	130	21.9	0.94	2.3837	1:10
+Nbig_06_18S-T1	Nbig_06	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	19	12	0.37	3.9318	1:20
+Nbig_07_18S-T1	Nbig_07	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	7.6	0.1	1.6494	1:10
+Nbig_08_18S-T1	Nbig_08	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	18	11.4	0.47	2.1647	1:10
+Nbig_09_18S-T1	Nbig_09	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	62	16.9	2.57	0.6332	1:10
+Nbig_10_18S-T1	Nbig_10	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	6	8.8	0.21	2.2831	1:10
+Nbig_11_18S-T1	Nbig_11	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	109	21.2	0.92	3.2812	1:10
+Nbig_12_18S-T1	Nbig_12	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	83	18.4	1.03	5.8921	1:20
+Nbig_13_18S-T1	Nbig_13	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	118	20.2	3.46	6.4315	1:20
+Nexi_01_18S-T1	Nexi_01	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	4	8.3	0.13	1.7378	1:10
+Nexi_02_18S-T1	Nexi_02	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.2	0.02	0.2116	NA
+Nexi_03_18S-T1	Nexi_03	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.07	7.9894	1:10
+Nexi_04_18S-T1	Nexi_04	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.02	0.3076	NA
+Nexi_05_18S-T1	Nexi_05	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.6	0.05	0.2638	NA
+Nexi_06_18S-reseq	Nexi_06	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.06	0.148	NA
+Nexi_06_18S-T1	Nexi_06	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.06	0.148	NA
+Nexi_07_18S-reseq	Nexi_07	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.5	0.01	0.1896	NA
+Nexi_07_18S-T1	Nexi_07	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.5	0.01	0.1896	NA
+Nexi_08_18S-T1	Nexi_08	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	9	10.1	0.07	68.1879	1:30
+Nexi_09_18S-reseq	Nexi_09	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.6	0.01	0.2824	NA
+Nexi_09_18S-T1	Nexi_09	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.6	0.01	0.2824	NA
+Nexi_10_18S-T1	Nexi_10	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.16	58.9752	1:20
+PCR_BL1_18S-T1	PCR_BL1	Blank	NA	NA	PCR_blank_1	BL	NA	NA	NA	NA	NA
+PCR_BL2_18S-T1	PCR_BL2	Blank	NA	NA	PCR_blank_2	BL	NA	NA	NA	NA	NA
+PCR_BL3_18S-reseq	PCR_BL3	Blank	NA	NA	PCR_blank_3	BL	NA	NA	NA	NA	NA
+PCR_BL3_18S-T1	PCR_BL3	Blank	NA	NA	PCR_blank_3	BL	NA	NA	NA	NA	NA

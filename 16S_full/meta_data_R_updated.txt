@@ -1,0 +1,635 @@
+sample-id	sample_type	fish_ID	diet_cat	habitat_cat	family	species	sp_abb	weight_g	length_cm	gut_weight_g	extraction_concentration_ng_ul	dilution
+#q2:types	categorical	categorical	categorical	categorical	categorical	categorical	categorical	numerical	numerical	numerical	numerical	categorical
+Anat_01_T1	Microbiome	Anat_01	Omnivore	Benthic	Ictaluridae	Ameiurus_natalis	Anat	236	25.4	9.68	28.89798516	1:20
+Anat_01_T2	Microbiome	Anat_01	Omnivore	Benthic	Ictaluridae	Ameiurus_natalis	Anat	236	25.4	9.68	28.89798516	1:20
+Arup_01_T1	Microbiome	Arup_01	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	4	6	0.07	4.746365808	1:10
+Arup_01_T2	Microbiome	Arup_01	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	4	6	0.07	4.746365808	1:10
+Arup_02_T1	Microbiome	Arup_02	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	15	8.9	0.67	6.684013495	1:10
+Arup_02_T2	Microbiome	Arup_02	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	15	8.9	0.67	6.684013495	1:10
+Arup_03_T1	Microbiome	Arup_03	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	82	15.7	0.53	13.33720893	1:10
+Arup_03_T2	Microbiome	Arup_03	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	82	15.7	0.53	13.33720893	1:10
+Arup_04_T1	Microbiome	Arup_04	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	113	17.2	1.26	8.48174517	1:10
+Arup_04_T2	Microbiome	Arup_04	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	113	17.2	1.26	8.48174517	1:10
+Arup_05_T1	Microbiome	Arup_05	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	74	15.4	2.97	1.685608514	1:10
+Arup_05_T2	Microbiome	Arup_05	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	74	15.4	2.97	1.685608514	1:10
+Arup_06_T1	Microbiome	Arup_06	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	26	10.7	0.32	0.929305748	1:10
+Arup_06_T2	Microbiome	Arup_06	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	26	10.7	0.32	0.929305748	1:10
+Arup_07_T1	Microbiome	Arup_07	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	101	16.4	0.87	NA	1:20
+Arup_07_T2	Microbiome	Arup_07	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	101	16.4	0.87	NA	1:20
+Arup_08_T1	Microbiome	Arup_08	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	157	19.1	0.57	9.041749357	1:10
+Arup_08_T2	Microbiome	Arup_08	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	157	19.1	0.57	9.041749357	1:10
+Arup_09_T1	Microbiome	Arup_09	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	62	14.3	2.5	4.887285684	1:10
+Arup_09_T2	Microbiome	Arup_09	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	62	14.3	2.5	4.887285684	1:10
+Cano_01_T1	Microbiome	Cano_01	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	3	6.7	0.26	2.427541527	0
+Cano_01_T2	Microbiome	Cano_01	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	3	6.7	0.26	2.427541527	0
+Cano_02_T1	Microbiome	Cano_02	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	12	9.9	1.28	1.004179721	0
+Cano_02_T2	Microbiome	Cano_02	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	12	9.9	1.28	1.004179721	0
+Cano_03_T1	Microbiome	Cano_03	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	7	8.8	0.55	0.288717305	0
+Cano_03_T2	Microbiome	Cano_03	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	7	8.8	0.55	0.288717305	0
+Cano_04_T1	Microbiome	Cano_04	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	5	8	0.65	0.812835122	0
+Cano_04_T2	Microbiome	Cano_04	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	5	8	0.65	0.812835122	0
+Cano_05_T1	Microbiome	Cano_05	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	11.1	2.25	0.424851803	0
+Cano_05_T2	Microbiome	Cano_05	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	11.1	2.25	0.424851803	0
+Cano_06_T1	Microbiome	Cano_06	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	23	13.3	2.88	5.43308872	0
+Cano_06_T2	Microbiome	Cano_06	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	23	13.3	2.88	5.43308872	0
+Cano_07_T1	Microbiome	Cano_07	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	12.3	2.03	2.375898438	0
+Cano_07_T2	Microbiome	Cano_07	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	17	12.3	2.03	2.375898438	0
+Cano_08_T1	Microbiome	Cano_08	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	16	11.9	2.42	3.73607603	0
+Cano_08_T2	Microbiome	Cano_08	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	16	11.9	2.42	3.73607603	0
+Cano_09_T1	Microbiome	Cano_09	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	10	9.7	1.08	1.130389173	0
+Cano_09_T2	Microbiome	Cano_09	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	10	9.7	1.08	1.130389173	0
+Cano_10_T1	Microbiome	Cano_10	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.3	1.82	3.66818031	0
+Cano_10_T2	Microbiome	Cano_10	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.3	1.82	3.66818031	0
+Cano_11_T1	Microbiome	Cano_11	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	10.2	1.04	2.04320941	0
+Cano_11_T2	Microbiome	Cano_11	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	10.2	1.04	2.04320941	0
+Cano_12_T1	Microbiome	Cano_12	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.5	1.15	0.878420612	0
+Cano_12_T2	Microbiome	Cano_12	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.5	1.15	0.878420612	0
+Cano_13_T1	Microbiome	Cano_13	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9.7	0.77	0.97573781	0
+Cano_13_T2	Microbiome	Cano_13	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9.7	0.77	0.97573781	0
+Cano_14_T1	Microbiome	Cano_14	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.9	0.9	0.158725979	0
+Cano_14_T2	Microbiome	Cano_14	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.9	0.9	0.158725979	0
+Cano_15_T1	Microbiome	Cano_15	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.8	0.71	0.545731583	0
+Cano_15_T2	Microbiome	Cano_15	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.8	0.71	0.545731583	0
+Cano_16_T1	Microbiome	Cano_16	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	26	13.2	2.8	1.447235867	0
+Cano_16_T2	Microbiome	Cano_16	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	26	13.2	2.8	1.447235867	0
+Cano_17_T1	Microbiome	Cano_17	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.4	1.44	1.894593222	0
+Cano_17_T2	Microbiome	Cano_17	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	14	11.4	1.44	1.894593222	0
+Cano_18_T1	Microbiome	Cano_18	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.8	1.57	0.451431972	0
+Cano_18_T2	Microbiome	Cano_18	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.8	1.57	0.451431972	0
+Cano_19_T1	Microbiome	Cano_19	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9	1.03	0.327710882	0
+Cano_19_T2	Microbiome	Cano_19	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	9	9	1.03	0.327710882	0
+Cano_20_T1	Microbiome	Cano_20	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.1	1.04	0.262078353	0
+Cano_20_T2	Microbiome	Cano_20	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	11	10.1	1.04	0.262078353	0
+Cano_21_T1	Microbiome	Cano_21	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	9.3	0.79	0.303570181	0
+Cano_21_T2	Microbiome	Cano_21	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	9.3	0.79	0.303570181	0
+Cano_22_T1	Microbiome	Cano_22	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.3	0.87	0.295271816	0
+Cano_22_T2	Microbiome	Cano_22	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	8	8.3	0.87	0.295271816	0
+Cano_23_T1	Microbiome	Cano_23	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	15	11	1.32	1.791995245	0
+Cano_23_T2	Microbiome	Cano_23	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	15	11	1.32	1.791995245	0
+Cano_24_T1	Microbiome	Cano_24	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.4	1.35	0.560065124	0
+Cano_24_T2	Microbiome	Cano_24	Herbivore	Benthic	Cyprinidae	Campostoma_anomalum	Cano	13	10.4	1.35	0.560065124	0
+Ccar_01_T1	Microbiome	Ccar_01	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.12	0.098129008	0
+Ccar_01_T2	Microbiome	Ccar_01	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.12	0.098129008	0
+Ccar_02_T1	Microbiome	Ccar_02	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.9	0.08	0.934599867	0
+Ccar_02_T2	Microbiome	Ccar_02	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.9	0.08	0.934599867	0
+Ccar_03_T1	Microbiome	Ccar_03	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	7	0.04	0.517877043	0
+Ccar_03_T2	Microbiome	Ccar_03	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	7	0.04	0.517877043	0
+Ccar_04_T1	Microbiome	Ccar_04	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.5	0.07	2.84653326	0
+Ccar_04_T2	Microbiome	Ccar_04	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.5	0.07	2.84653326	0
+Ccar_05_T1	Microbiome	Ccar_05	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.02	0.690314074	0
+Ccar_05_T2	Microbiome	Ccar_05	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.02	0.690314074	0
+Ccar_06_T1	Microbiome	Ccar_06	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.3	0.07	1.209137771	0
+Ccar_06_T2	Microbiome	Ccar_06	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.3	0.07	1.209137771	0
+Ccar_07_T1	Microbiome	Ccar_07	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.1	0.03	1.176407383	0
+Ccar_07_T2	Microbiome	Ccar_07	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	7.1	0.03	1.176407383	0
+Ccar_08_T1	Microbiome	Ccar_08	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.6	0.05	1.441955088	0
+Ccar_08_T2	Microbiome	Ccar_08	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.6	0.05	1.441955088	0
+Ccar_09_T1	Microbiome	Ccar_09	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.04	2.100543573	0
+Ccar_09_T2	Microbiome	Ccar_09	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.04	2.100543573	0
+Ccar_10_T1	Microbiome	Ccar_10	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.7	0.04	2.350248944	0
+Ccar_10_T2	Microbiome	Ccar_10	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.7	0.04	2.350248944	0
+Ccar_11_T1	Microbiome	Ccar_11	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	6.8	0.08	1.527956334	0
+Ccar_11_T2	Microbiome	Ccar_11	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	5	6.8	0.08	1.527956334	0
+Ccar_12_T1	Microbiome	Ccar_12	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.03	1.027036799	0
+Ccar_12_T2	Microbiome	Ccar_12	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.03	1.027036799	0
+Ccar_13_T1	Microbiome	Ccar_13	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.2	0.12	2.191825597	0
+Ccar_13_T2	Microbiome	Ccar_13	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.2	0.12	2.191825597	0
+Ccar_14_T1	Microbiome	Ccar_14	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.4	0.1	5.327099071	1:10
+Ccar_14_T2	Microbiome	Ccar_14	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	6	7.4	0.1	5.327099071	1:10
+Ccar_15_T1	Microbiome	Ccar_15	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.2	0.07	7.882241337	1:10
+Ccar_15_T2	Microbiome	Ccar_15	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.2	0.07	7.882241337	1:10
+Ccar_16_T1	Microbiome	Ccar_16	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.8	0.07	17.11572778	1:10
+Ccar_16_T2	Microbiome	Ccar_16	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6.8	0.07	17.11572778	1:10
+Ccar_17_T1	Microbiome	Ccar_17	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.01	0.414374019	0
+Ccar_17_T2	Microbiome	Ccar_17	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.01	0.414374019	0
+Ccar_18_T1	Microbiome	Ccar_18	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6	0.02	2.413444499	0
+Ccar_18_T2	Microbiome	Ccar_18	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6	0.02	2.413444499	0
+Ccar_19_T1	Microbiome	Ccar_19	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.02	1.373047755	0
+Ccar_19_T2	Microbiome	Ccar_19	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.02	1.373047755	0
+Ccar_20_T1	Microbiome	Ccar_20	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.01	2.484166332	0
+Ccar_20_T2	Microbiome	Ccar_20	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.01	2.484166332	0
+Ccar_21_T1	Microbiome	Ccar_21	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6	0.01	9.697793299	1:10
+Ccar_21_T2	Microbiome	Ccar_21	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6	0.01	9.697793299	1:10
+Ccar_22_T1	Microbiome	Ccar_22	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.17	3.61571566	0
+Ccar_22_T2	Microbiome	Ccar_22	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.17	3.61571566	0
+Ccar_23_T1	Microbiome	Ccar_23	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.06	0.720835295	0
+Ccar_23_T2	Microbiome	Ccar_23	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.06	0.720835295	0
+Ccar_24_T1	Microbiome	Ccar_24	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.01	0.859135769	0
+Ccar_24_T2	Microbiome	Ccar_24	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.01	0.859135769	0
+dis_BL_T1	Blank	dis_BL	Blank	NA	NA	Blank	BL	NA	NA	NA	0.133058283	0
+dis_BL_T2	Blank	dis_BL	Blank	NA	NA	Blank	BL	NA	NA	NA	0.133058283	0
+Ecae_01_T1	Microbiome	Ecae_01	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.02	2.137877568	1:10
+Ecae_01_T2	Microbiome	Ecae_01	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.02	2.137877568	1:10
+Ecae_02_T1	Microbiome	Ecae_02	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.745524175	1:10
+Ecae_02_T2	Microbiome	Ecae_02	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.745524175	1:10
+Ecae_03_T1	Microbiome	Ecae_03	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	8.204182055	1:10
+Ecae_03_T2	Microbiome	Ecae_03	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	8.204182055	1:10
+Ecae_04_T1	Microbiome	Ecae_04	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.5	0.01	0.379473637	1:10
+Ecae_04_T2	Microbiome	Ecae_04	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.5	0.01	0.379473637	1:10
+Ecae_05_T1	Microbiome	Ecae_05	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.226700478	1:10
+Ecae_05_T2	Microbiome	Ecae_05	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.226700478	1:10
+Ecae_06_T1	Microbiome	Ecae_06	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.03	29.78452518	1:20
+Ecae_06_T2	Microbiome	Ecae_06	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.6	0.03	29.78452518	1:20
+Ecae_07_T1	Microbiome	Ecae_07	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	0.04	16.53064728	1:10
+Ecae_07_T2	Microbiome	Ecae_07	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	0.04	16.53064728	1:10
+Ecae_08_T1	Microbiome	Ecae_08	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	0.02	0.523854073	1:10
+Ecae_08_T2	Microbiome	Ecae_08	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	0.02	0.523854073	1:10
+Ecae_09_T1	Microbiome	Ecae_09	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	NA	0.540450805	1:10
+Ecae_09_T2	Microbiome	Ecae_09	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	NA	0.540450805	1:10
+Ecae_10_T1	Microbiome	Ecae_10	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.248499209	1:10
+Ecae_10_T2	Microbiome	Ecae_10	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.248499209	1:10
+Ecae_11_T1	Microbiome	Ecae_11	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	NA	0.84975353	1:10
+Ecae_11_T2	Microbiome	Ecae_11	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.5	NA	0.84975353	1:10
+Ecae_12_T1	Microbiome	Ecae_12	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.4	NA	4.207574087	1:10
+Ecae_12_T2	Microbiome	Ecae_12	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.4	NA	4.207574087	1:10
+Ecae_13_T1	Microbiome	Ecae_13	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	0.02	3.734567237	1:10
+Ecae_13_T2	Microbiome	Ecae_13	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.7	0.02	3.734567237	1:10
+Ecae_14_T1	Microbiome	Ecae_14	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	20.97932574	1:10
+Ecae_14_T2	Microbiome	Ecae_14	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	20.97932574	1:10
+Ecae_15_T1	Microbiome	Ecae_15	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	NA	0.578170649	0
+Ecae_15_T2	Microbiome	Ecae_15	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	NA	0.578170649	0
+Ecae_16_T1	Microbiome	Ecae_16	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.533661233	0
+Ecae_16_T2	Microbiome	Ecae_16	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	0.01	0.533661233	0
+Ecae_17_T1	Microbiome	Ecae_17	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.02	0.858051896	0
+Ecae_17_T2	Microbiome	Ecae_17	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.02	0.858051896	0
+Ecae_18_T1	Microbiome	Ecae_18	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	0.01	1.267689407	0
+Ecae_18_T2	Microbiome	Ecae_18	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.3	0.01	1.267689407	0
+Ecae_19_T1	Microbiome	Ecae_19	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	NA	0.350342789	0
+Ecae_19_T2	Microbiome	Ecae_19	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.2	NA	0.350342789	0
+Ecae_20_T1	Microbiome	Ecae_20	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.1	0.01	0.103655006	0
+Ecae_20_T2	Microbiome	Ecae_20	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.1	0.01	0.103655006	0
+Ecae_21_T1	Microbiome	Ecae_21	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.9	0.01	1.125108395	0
+Ecae_21_T2	Microbiome	Ecae_21	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	3	5.9	0.01	1.125108395	0
+Etet_01_T1	Microbiome	Etet_01	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	6	8.1	0.05	3.859222664	0
+Etet_01_T2	Microbiome	Etet_01	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	6	8.1	0.05	3.859222664	0
+Etet_02_T1	Microbiome	Etet_02	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.08	2.593928136	0
+Etet_02_T2	Microbiome	Etet_02	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.08	2.593928136	0
+Etet_03_T1	Microbiome	Etet_03	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.05	2.796617277	0
+Etet_03_T2	Microbiome	Etet_03	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.05	2.796617277	0
+Etet_04_T1	Microbiome	Etet_04	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.5	0.03	0.967877189	0
+Etet_04_T2	Microbiome	Etet_04	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.5	0.03	0.967877189	0
+Etet_05_T1	Microbiome	Etet_05	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	7.1	0.05	2.578045778	0
+Etet_05_T2	Microbiome	Etet_05	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	7.1	0.05	2.578045778	0
+Etet_06_T1	Microbiome	Etet_06	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.4	0.02	1.960902721	0
+Etet_06_T2	Microbiome	Etet_06	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.4	0.02	1.960902721	0
+Etet_07_T1	Microbiome	Etet_07	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.05	3.262106495	0
+Etet_07_T2	Microbiome	Etet_07	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.3	0.05	3.262106495	0
+Etet_08_T1	Microbiome	Etet_08	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.2	0.05	1.597786024	0
+Etet_08_T2	Microbiome	Etet_08	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	7.2	0.05	1.597786024	0
+Etet_09_T1	Microbiome	Etet_09	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.5	0.06	1.816237909	0
+Etet_09_T2	Microbiome	Etet_09	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.5	0.06	1.816237909	0
+Etet_10_T1	Microbiome	Etet_10	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.4	0.05	1.308612307	0
+Etet_10_T2	Microbiome	Etet_10	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	5	7.4	0.05	1.308612307	0
+Etet_11_T1	Microbiome	Etet_11	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.5	0.09	1.175026623	0
+Etet_11_T2	Microbiome	Etet_11	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.5	0.09	1.175026623	0
+Etet_12_T1	Microbiome	Etet_12	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.8	0.01	0.851277787	0
+Etet_12_T2	Microbiome	Etet_12	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.8	0.01	0.851277787	0
+Etet_13_T1	Microbiome	Etet_13	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.9	0.07	4.4879516	0
+Etet_13_T2	Microbiome	Etet_13	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.9	0.07	4.4879516	0
+Etet_14_T1	Microbiome	Etet_14	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.01	0.833990228	0
+Etet_14_T2	Microbiome	Etet_14	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.7	0.01	0.833990228	0
+Etet_15_T1	Microbiome	Etet_15	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.9	0.04	1.093303616	0
+Etet_15_T2	Microbiome	Etet_15	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.9	0.04	1.093303616	0
+Etet_16_T1	Microbiome	Etet_16	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.1	0.03	1.231604089	0
+Etet_16_T2	Microbiome	Etet_16	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.1	0.03	1.231604089	0
+Etet_17_T1	Microbiome	Etet_17	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.4	0.05	1.316470289	0
+Etet_17_T2	Microbiome	Etet_17	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.4	0.05	1.316470289	0
+Etet_18_T1	Microbiome	Etet_18	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.6	0.12	1.594642832	0
+Etet_18_T2	Microbiome	Etet_18	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.6	0.12	1.594642832	0
+Etet_19_T1	Microbiome	Etet_19	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.04	1.292896344	0
+Etet_19_T2	Microbiome	Etet_19	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.04	1.292896344	0
+Etet_20_T1	Microbiome	Etet_20	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.2	0.01	0.639112288	0
+Etet_20_T2	Microbiome	Etet_20	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.2	0.01	0.639112288	0
+Etet_21_T1	Microbiome	Etet_21	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.4	0.05	1.190742586	0
+Etet_21_T2	Microbiome	Etet_21	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	6.4	0.05	1.190742586	0
+Etet_22_T1	Microbiome	Etet_22	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	2	5.5	0.01	0.188064153	0
+Etet_22_T2	Microbiome	Etet_22	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	2	5.5	0.01	0.188064153	0
+Etet_23_T1	Microbiome	Etet_23	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.3	0.03	0.709834121	0
+Etet_23_T2	Microbiome	Etet_23	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	4	6.3	0.03	0.709834121	0
+Etet_24_T1	Microbiome	Etet_24	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.01	0.590392803	0
+Etet_24_T2	Microbiome	Etet_24	Invertivore	Benthic	Percidae	Etheostoma_erythrozonum	Etet	3	5.7	0.01	0.590392803	0
+ext_BL1_T1	Blank	ext_BL1	Blank	NA	NA	Blank	BL	NA	NA	NA	0.120485513	0
+ext_BL1_T2	Blank	ext_BL1	Blank	NA	NA	Blank	BL	NA	NA	NA	0.120485513	0
+ext_BL2_T1	Blank	ext_BL2	Blank	NA	NA	Blank	BL	NA	NA	NA	0.095339972	0
+ext_BL2_T2	Blank	ext_BL2	Blank	NA	NA	Blank	BL	NA	NA	NA	0.095339972	0
+Foli_01_T1	Microbiome	Foli_01	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	0.378717334	0
+Foli_01_T2	Microbiome	Foli_01	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	0.378717334	0
+Foli_02_T1	Microbiome	Foli_02	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	6	0.04	0.769725864	1:10
+Foli_02_T2	Microbiome	Foli_02	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	6	0.04	0.769725864	1:10
+Foli_03_T1	Microbiome	Foli_03	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	7.5	0.06	0.786364525	1:10
+Foli_03_T2	Microbiome	Foli_03	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	7.5	0.06	0.786364525	1:10
+Foli_04_T1	Microbiome	Foli_04	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	6.7	0.02	8.941577252	1:10
+Foli_04_T2	Microbiome	Foli_04	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	6.7	0.02	8.941577252	1:10
+Foli_05_T1	Microbiome	Foli_05	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	5.8	0.03	1.793003507	1:10
+Foli_05_T2	Microbiome	Foli_05	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	2	5.8	0.03	1.793003507	1:10
+Foli_06_T1	Microbiome	Foli_06	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	5	8.2	0.07	4.794012883	1:10
+Foli_06_T2	Microbiome	Foli_06	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	5	8.2	0.07	4.794012883	1:10
+Foli_07_T1	Microbiome	Foli_07	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5	0.01	0.687558198	1:10
+Foli_07_T2	Microbiome	Foli_07	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5	0.01	0.687558198	1:10
+Foli_08_T1	Microbiome	Foli_08	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.4	0.06	2.185036025	1:20
+Foli_08_T2	Microbiome	Foli_08	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.4	0.06	2.185036025	1:20
+Foli_09_T1	Microbiome	Foli_09	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	4.3	0.01	0.184375473	0
+Foli_09_T2	Microbiome	Foli_09	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	4.3	0.01	0.184375473	0
+Foli_10_T1	Microbiome	Foli_10	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	2.093754001	1:10
+Foli_10_T2	Microbiome	Foli_10	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	2.093754001	1:10
+Hnig_01_T1	Microbiome	Hnig_01	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	18	11.9	0.16	2.407121353	1:10
+Hnig_01_T2	Microbiome	Hnig_01	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	18	11.9	0.16	2.407121353	1:10
+Hnig_02_T1	Microbiome	Hnig_02	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	11	10.9	0.12	2.236196928	1:10
+Hnig_02_T2	Microbiome	Hnig_02	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	11	10.9	0.12	2.236196928	1:10
+Hnig_03_T1	Microbiome	Hnig_03	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	246	31.4	1.9	33.97738437	1:10
+Hnig_03_T2	Microbiome	Hnig_03	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	246	31.4	1.9	33.97738437	1:10
+Hnig_04_T1	Microbiome	Hnig_04	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	104	20.2	1.64	8.077477525	1:10
+Hnig_04_T2	Microbiome	Hnig_04	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	104	20.2	1.64	8.077477525	1:10
+Hnig_05_T1	Microbiome	Hnig_05	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	139	25.3	3.01	3.708439841	1:20
+Hnig_05_T2	Microbiome	Hnig_05	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	139	25.3	3.01	3.708439841	1:20
+Hnig_06_T1	Microbiome	Hnig_06	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	125	23.6	0.73	7.706580801	1:10
+Hnig_06_T2	Microbiome	Hnig_06	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	125	23.6	0.73	7.706580801	1:10
+Hnig_07_T1	Microbiome	Hnig_07	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	142	22.9	0.79	6.752621853	1:10
+Hnig_07_T2	Microbiome	Hnig_07	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	142	22.9	0.79	6.752621853	1:10
+Hnig_08_T1	Microbiome	Hnig_08	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	100	19.8	1.54	4.931141754	1:10
+Hnig_08_T2	Microbiome	Hnig_08	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	100	19.8	1.54	4.931141754	1:10
+Hnig_09_T1	Microbiome	Hnig_09	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	152	22.3	0.82	4.429802538	1:10
+Hnig_09_T2	Microbiome	Hnig_09	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	152	22.3	0.82	4.429802538	1:10
+Hnig_10_T1	Microbiome	Hnig_10	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	101	20.9	2.66	3.364260254	1:10
+Hnig_10_T2	Microbiome	Hnig_10	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	101	20.9	2.66	3.364260254	1:10
+Hnig_11_T1	Microbiome	Hnig_11	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	20.7	0.86	22.98249673	1:10
+Hnig_11_T2	Microbiome	Hnig_11	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	20.7	0.86	22.98249673	1:10
+Hnig_12_T1	Microbiome	Hnig_12	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	177	24.5	2.45	13.16001992	1:10
+Hnig_12_T2	Microbiome	Hnig_12	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	177	24.5	2.45	13.16001992	1:10
+Hnig_13_T1	Microbiome	Hnig_13	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	18.9	1.07	10.48359144	1:10
+Hnig_13_T2	Microbiome	Hnig_13	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	93	18.9	1.07	10.48359144	1:10
+Hnig_14_T1	Microbiome	Hnig_14	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	368	32.6	6.08	5.43248097	1:10
+Hnig_14_T2	Microbiome	Hnig_14	Omnivore	Benthic	Catostomidae	Hypentelium_nigricans	Hnig	368	32.6	6.08	5.43248097	1:10
+Lmac_01_T1	Microbiome	Lmac_01	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	5.9	0.08	3.050735007	1:10
+Lmac_01_T2	Microbiome	Lmac_01	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	5.9	0.08	3.050735007	1:10
+Lmac_02_T1	Microbiome	Lmac_02	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	16	9.6	0.38	3.174012358	1:10
+Lmac_02_T2	Microbiome	Lmac_02	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	16	9.6	0.38	3.174012358	1:10
+Lmac_03_T1	Microbiome	Lmac_03	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.9	0.73	3.475020858	1:10
+Lmac_03_T2	Microbiome	Lmac_03	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.9	0.73	3.475020858	1:10
+Lmac_04_T1	Microbiome	Lmac_04	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	19	9.9	0.58	0.983759547	1:10
+Lmac_04_T2	Microbiome	Lmac_04	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	19	9.9	0.58	0.983759547	1:10
+Lmac_05_T1	Microbiome	Lmac_05	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.06	0.395355995	1:10
+Lmac_05_T2	Microbiome	Lmac_05	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.06	0.395355995	1:10
+Lmac_06_T1	Microbiome	Lmac_06	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	15	9.2	0.39	1.274179809	1:10
+Lmac_06_T2	Microbiome	Lmac_06	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	15	9.2	0.39	1.274179809	1:10
+Lmac_07_T1	Microbiome	Lmac_07	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	24	10.7	0.62	0.458221544	1:10
+Lmac_07_T2	Microbiome	Lmac_07	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	24	10.7	0.62	0.458221544	1:10
+Lmac_08_T1	Microbiome	Lmac_08	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.05	0.830139211	1:10
+Lmac_08_T2	Microbiome	Lmac_08	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.7	0.05	0.830139211	1:10
+Lmac_09_T1	Microbiome	Lmac_09	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	6	0.1	1.072300612	1:10
+Lmac_09_T2	Microbiome	Lmac_09	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	4	6	0.1	1.072300612	1:10
+Lmac_10_T1	Microbiome	Lmac_10	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.3	0.07	2.065086919	1:10
+Lmac_10_T2	Microbiome	Lmac_10	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.3	0.07	2.065086919	1:10
+Lmac_11_T1	Microbiome	Lmac_11	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	4.6	0.03	0.624943257	1:10
+Lmac_11_T2	Microbiome	Lmac_11	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	4.6	0.03	0.624943257	1:10
+Lmac_12_T1	Microbiome	Lmac_12	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	13	9	0.32	2.197860772	1:10
+Lmac_12_T2	Microbiome	Lmac_12	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	13	9	0.32	2.197860772	1:10
+Lmac_13_T1	Microbiome	Lmac_13	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	4.9	0.03	3.997851751	1:10
+Lmac_13_T2	Microbiome	Lmac_13	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	4.9	0.03	3.997851751	1:10
+Lmac_14_T1	Microbiome	Lmac_14	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.1	0.02	0.36467633	1:10
+Lmac_14_T2	Microbiome	Lmac_14	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	3	5.1	0.02	0.36467633	1:10
+Lmac_15_T1	Microbiome	Lmac_15	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	5	0.02	0.530643645	1:10
+Lmac_15_T2	Microbiome	Lmac_15	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	2	5	0.02	0.530643645	1:10
+Lmac_16_T1	Microbiome	Lmac_16	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.8	0.13	3.561055952	1:10
+Lmac_16_T2	Microbiome	Lmac_16	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	25	10.8	0.13	3.561055952	1:10
+Lmac_17_T1	Microbiome	Lmac_17	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	21	10.5	0.48	1.401972053	1:10
+Lmac_17_T2	Microbiome	Lmac_17	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	21	10.5	0.48	1.401972053	1:10
+Lmac_18_T1	Microbiome	Lmac_18	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	73	15.6	1.49	5.500610356	1:10
+Lmac_18_T2	Microbiome	Lmac_18	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	73	15.6	1.49	5.500610356	1:10
+Lmac_19_T1	Microbiome	Lmac_19	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	75	15.4	2.58	2.320073068	1:10
+Lmac_19_T2	Microbiome	Lmac_19	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	75	15.4	2.58	2.320073068	1:10
+Lmac_20_T1	Microbiome	Lmac_20	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	102	16.3	3.08	8.044436668	1:10
+Lmac_20_T2	Microbiome	Lmac_20	Generalist predator	Midwater	Centrarchidae	Lepomis_macrochirus	Lmac	102	16.3	3.08	8.044436668	1:10
+Lmeg_01_T1	Microbiome	Lmeg_01	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	31	11.4	0.47	0.697877101	1:10
+Lmeg_01_T2	Microbiome	Lmeg_01	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	31	11.4	0.47	0.697877101	1:10
+Lmeg_02_T1	Microbiome	Lmeg_02	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.6	0.39	2.014600217	1:10
+Lmeg_02_T2	Microbiome	Lmeg_02	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.6	0.39	2.014600217	1:10
+Lmeg_03_T1	Microbiome	Lmeg_03	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	12.6	0.81	5.366534077	1:10
+Lmeg_03_T2	Microbiome	Lmeg_03	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	12.6	0.81	5.366534077	1:10
+Lmeg_04_T1	Microbiome	Lmeg_04	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	9.3	0.33	1.631154715	1:10
+Lmeg_04_T2	Microbiome	Lmeg_04	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	9.3	0.33	1.631154715	1:10
+Lmeg_05_T1	Microbiome	Lmeg_05	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	25	10.1	0.28	5.209223101	1:10
+Lmeg_05_T2	Microbiome	Lmeg_05	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	25	10.1	0.28	5.209223101	1:10
+Lmeg_06_T1	Microbiome	Lmeg_06	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.7	0.37	1.783927873	1:10
+Lmeg_06_T2	Microbiome	Lmeg_06	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.7	0.37	1.783927873	1:10
+Lmeg_07_T1	Microbiome	Lmeg_07	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	10	7.8	0.18	1.417814388	1:10
+Lmeg_07_T2	Microbiome	Lmeg_07	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	10	7.8	0.18	1.417814388	1:10
+Lmeg_08_T1	Microbiome	Lmeg_08	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	11	8	0.09	3.141611281	1:10
+Lmeg_08_T2	Microbiome	Lmeg_08	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	11	8	0.09	3.141611281	1:10
+Lmeg_09_T1	Microbiome	Lmeg_09	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.8	0.23	4.236241168	1:10
+Lmeg_09_T2	Microbiome	Lmeg_09	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	14	8.8	0.23	4.236241168	1:10
+Lmeg_10_T1	Microbiome	Lmeg_10	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.9	0.3	2.503391512	1:10
+Lmeg_10_T2	Microbiome	Lmeg_10	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	18	9.9	0.3	2.503391512	1:10
+Lmeg_11_T1	Microbiome	Lmeg_11	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	50	12.4	2.69	18.3691125	1:10
+Lmeg_11_T2	Microbiome	Lmeg_11	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	50	12.4	2.69	18.3691125	1:10
+Lmeg_12_T1	Microbiome	Lmeg_12	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	17	9.2	0.22	6.70764538	1:10
+Lmeg_12_T2	Microbiome	Lmeg_12	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	17	9.2	0.22	6.70764538	1:10
+Lmeg_13_T1	Microbiome	Lmeg_13	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	43	11.7	1.21	10.83042438	1:10
+Lmeg_13_T2	Microbiome	Lmeg_13	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	43	11.7	1.21	10.83042438	1:10
+Lmeg_14_T1	Microbiome	Lmeg_14	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	52	13.4	0.81	3.002047857	1:10
+Lmeg_14_T2	Microbiome	Lmeg_14	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	52	13.4	0.81	3.002047857	1:10
+Lmeg_15_T1	Microbiome	Lmeg_15	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	13	8.2	0.29	5.406310745	1:10
+Lmeg_15_T2	Microbiome	Lmeg_15	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	13	8.2	0.29	5.406310745	1:10
+Lmeg_16_T1	Microbiome	Lmeg_16	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	21	10.2	0.26	4.780161326	1:10
+Lmeg_16_T2	Microbiome	Lmeg_16	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	21	10.2	0.26	4.780161326	1:10
+Lmeg_17_T1	Microbiome	Lmeg_17	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	11.8	1.49	7.256846315	1:10
+Lmeg_17_T2	Microbiome	Lmeg_17	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	48	11.8	1.49	7.256846315	1:10
+Lmeg_18_T1	Microbiome	Lmeg_18	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	8.6	0.13	1.25486466	1:10
+Lmeg_18_T2	Microbiome	Lmeg_18	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	16	8.6	0.13	1.25486466	1:10
+Lmeg_19_T1	Microbiome	Lmeg_19	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	109	14.7	1.36	6.478308725	1:10
+Lmeg_19_T2	Microbiome	Lmeg_19	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	109	14.7	1.36	6.478308725	1:10
+Lmeg_20_T1	Microbiome	Lmeg_20	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	111	16.3	0.6	9.845936442	1:10
+Lmeg_20_T2	Microbiome	Lmeg_20	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	111	16.3	0.6	9.845936442	1:10
+Lzon_01_T1	Microbiome	Lzon_01	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.1	0.08	1.386868921	1:10
+Lzon_01_T2	Microbiome	Lzon_01	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.1	0.08	1.386868921	1:10
+Lzon_02_T1	Microbiome	Lzon_02	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.07	1.008717538	1:10
+Lzon_02_T2	Microbiome	Lzon_02	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.07	1.008717538	1:10
+Lzon_03_T1	Microbiome	Lzon_03	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.9	0.09	5.605356562	1:10
+Lzon_03_T2	Microbiome	Lzon_03	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.9	0.09	5.605356562	1:10
+Lzon_04_T1	Microbiome	Lzon_04	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.6	0.14	3.224388184	1:10
+Lzon_04_T2	Microbiome	Lzon_04	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.6	0.14	3.224388184	1:10
+Lzon_05_T1	Microbiome	Lzon_05	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.5	0.13	0.918856428	1:10
+Lzon_05_T2	Microbiome	Lzon_05	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.5	0.13	0.918856428	1:10
+Lzon_06_T1	Microbiome	Lzon_06	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.3	0.09	0.530672144	1:10
+Lzon_06_T2	Microbiome	Lzon_06	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.3	0.09	0.530672144	1:10
+Lzon_07_T1	Microbiome	Lzon_07	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.3	0.03	0.417517211	1:10
+Lzon_07_T2	Microbiome	Lzon_07	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.3	0.03	0.417517211	1:10
+Lzon_08_T1	Microbiome	Lzon_08	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	8.7	0.11	17.39861512	1:10
+Lzon_08_T2	Microbiome	Lzon_08	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	8.7	0.11	17.39861512	1:10
+Lzon_09_T1	Microbiome	Lzon_09	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.11	1.079159249	1:10
+Lzon_09_T2	Microbiome	Lzon_09	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.11	1.079159249	1:10
+Lzon_10_T1	Microbiome	Lzon_10	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.3	0.14	4.953144102	1:10
+Lzon_10_T2	Microbiome	Lzon_10	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	9.3	0.14	4.953144102	1:10
+Lzon_11_T1	Microbiome	Lzon_11	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.9	0.12	2.00640106	1:10
+Lzon_11_T2	Microbiome	Lzon_11	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.9	0.12	2.00640106	1:10
+Lzon_12_T1	Microbiome	Lzon_12	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.12	1.010009012	1:10
+Lzon_12_T2	Microbiome	Lzon_12	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.12	1.010009012	1:10
+Lzon_13_T1	Microbiome	Lzon_13	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.5	0.07	0.907855254	1:10
+Lzon_13_T2	Microbiome	Lzon_13	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.5	0.07	0.907855254	1:10
+Lzon_14_T1	Microbiome	Lzon_14	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.13	0.516527777	1:10
+Lzon_14_T2	Microbiome	Lzon_14	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	9.2	0.13	0.516527777	1:10
+Lzon_15_T1	Microbiome	Lzon_15	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	3	7.1	0.06	7.348256847	1:20
+Lzon_15_T2	Microbiome	Lzon_15	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	3	7.1	0.06	7.348256847	1:20
+Lzon_16_T1	Microbiome	Lzon_16	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.4	0.05	0.712977314	1:10
+Lzon_16_T2	Microbiome	Lzon_16	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.4	0.05	0.712977314	1:10
+Lzon_17_T1	Microbiome	Lzon_17	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	10.1	0.07	6.531026776	1:10
+Lzon_17_T2	Microbiome	Lzon_17	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	10.1	0.07	6.531026776	1:10
+Lzon_18_T1	Microbiome	Lzon_18	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10	0.07	1.789520772	1:10
+Lzon_18_T2	Microbiome	Lzon_18	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10	0.07	1.789520772	1:10
+Lzon_19_T1	Microbiome	Lzon_19	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	9.5	0.04	6.73690589	1:20
+Lzon_19_T2	Microbiome	Lzon_19	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	9.5	0.04	6.73690589	1:20
+Lzon_20_T1	Microbiome	Lzon_20	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.09	0.95185995	1:10
+Lzon_20_T2	Microbiome	Lzon_20	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	8.1	0.09	0.95185995	1:10
+Lzon_21_T1	Microbiome	Lzon_21	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	7.8	0.11	0.969147509	1:10
+Lzon_21_T2	Microbiome	Lzon_21	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	4	7.8	0.11	0.969147509	1:10
+Lzon_22_T1	Microbiome	Lzon_22	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.2	0.12	0.802558302	1:10
+Lzon_22_T2	Microbiome	Lzon_22	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.2	0.12	0.802558302	1:10
+Lzon_23_T1	Microbiome	Lzon_23	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.6	0.04	16.88155994	1:20
+Lzon_23_T2	Microbiome	Lzon_23	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.6	0.04	16.88155994	1:20
+Lzon_24_T1	Microbiome	Lzon_24	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.05	5.943249764	1:10
+Lzon_24_T2	Microbiome	Lzon_24	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	6	8.7	0.05	5.943249764	1:10
+Mdol_01_T1	Microbiome	Mdol_01	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	8.9	0.19	12.36611618	1:10
+Mdol_01_T2	Microbiome	Mdol_01	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	8.9	0.19	12.36611618	1:10
+Mdol_02_T1	Microbiome	Mdol_02	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	13	11	0.07	9.176787413	1:10
+Mdol_02_T2	Microbiome	Mdol_02	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	13	11	0.07	9.176787413	1:10
+Mdol_03_T1	Microbiome	Mdol_03	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	18	11.8	0.19	10.704519	1:10
+Mdol_03_T2	Microbiome	Mdol_03	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	18	11.8	0.19	10.704519	1:10
+Mdol_04_T1	Microbiome	Mdol_04	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	126	21.4	4.5	10.21519111	1:10
+Mdol_04_T2	Microbiome	Mdol_04	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	126	21.4	4.5	10.21519111	1:10
+Mdol_05_T1	Microbiome	Mdol_05	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	66	17.1	5.97	5.679221587	1:10
+Mdol_05_T2	Microbiome	Mdol_05	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	66	17.1	5.97	5.679221587	1:10
+Mdol_06_T1	Microbiome	Mdol_06	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	7.9	0.25	11.10437198	1:10
+Mdol_06_T2	Microbiome	Mdol_06	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	6	7.9	0.25	11.10437198	1:10
+Mdol_07_T1	Microbiome	Mdol_07	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	9	10.4	0.1	19.74343678	1:10
+Mdol_07_T2	Microbiome	Mdol_07	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	9	10.4	0.1	19.74343678	1:10
+Mdol_08_T1	Microbiome	Mdol_08	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	76	18.4	1.64	4.816415225	1:10
+Mdol_08_T2	Microbiome	Mdol_08	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	76	18.4	1.64	4.816415225	1:10
+Mdol_09_T1	Microbiome	Mdol_09	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	116	20.9	1.4	6.340863625	1:10
+Mdol_09_T2	Microbiome	Mdol_09	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	116	20.9	1.4	6.340863625	1:10
+Mdol_10_T1	Microbiome	Mdol_10	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	171	23.3	3.31	17.50391207	1:10
+Mdol_10_T2	Microbiome	Mdol_10	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	171	23.3	3.31	17.50391207	1:10
+Mdol_11_T1	Microbiome	Mdol_11	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	395	29.4	10.96	9.823521002	1:10
+Mdol_11_T2	Microbiome	Mdol_11	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	395	29.4	10.96	9.823521002	1:10
+Mdol_12_T1	Microbiome	Mdol_12	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	420	32.4	1.12	74.48213553	1:10
+Mdol_12_T2	Microbiome	Mdol_12	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	420	32.4	1.12	74.48213553	1:10
+Mdol_13_T1	Microbiome	Mdol_13	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	374	30.9	4.92	22.62888757	1:10
+Mdol_13_T2	Microbiome	Mdol_13	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	374	30.9	4.92	22.62888757	1:10
+Mduq_01_T1	Microbiome	Mduq_01	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	89	20.3	1.44	6.253677221	1:10
+Mduq_01_T2	Microbiome	Mduq_01	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	89	20.3	1.44	6.253677221	1:10
+Mduq_02_T1	Microbiome	Mduq_02	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	79	20.2	1.36	5.976114106	1:20
+Mduq_02_T2	Microbiome	Mduq_02	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	79	20.2	1.36	5.976114106	1:20
+Mduq_03_T1	Microbiome	Mduq_03	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	72	18.9	1.4	3.134684614	1:10
+Mduq_03_T2	Microbiome	Mduq_03	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	72	18.9	1.4	3.134684614	1:10
+Mduq_04_T1	Microbiome	Mduq_04	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	170	24.6	2.11	5.37560971	1:10
+Mduq_04_T2	Microbiome	Mduq_04	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	170	24.6	2.11	5.37560971	1:10
+Mduq_05_T1	Microbiome	Mduq_05	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	99	20.9	1.51	4.914265022	1:20
+Mduq_05_T2	Microbiome	Mduq_05	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	99	20.9	1.51	4.914265022	1:20
+Mduq_06_T1	Microbiome	Mduq_06	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	123	22.1	1.83	2.357961673	1:10
+Mduq_06_T2	Microbiome	Mduq_06	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	123	22.1	1.83	2.357961673	1:10
+Mduq_07_T1	Microbiome	Mduq_07	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	48	16.8	0.78	9.18885675	1:10
+Mduq_07_T2	Microbiome	Mduq_07	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	48	16.8	0.78	9.18885675	1:10
+Mduq_08_T1	Microbiome	Mduq_08	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	418	32.4	5.96	2.978661553	1:10
+Mduq_08_T2	Microbiome	Mduq_08	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	418	32.4	5.96	2.978661553	1:10
+Mduq_09_T1	Microbiome	Mduq_09	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	335	32.1	2.36	2.672376416	1:10
+Mduq_09_T2	Microbiome	Mduq_09	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	335	32.1	2.36	2.672376416	1:10
+Mduq_10_T1	Microbiome	Mduq_10	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	329	29.9	2.94	3.512774551	1:10
+Mduq_10_T2	Microbiome	Mduq_10	Omnivore	Benthic	Catostomidae	Moxostoma_duquesnii	Mduq	329	29.9	2.94	3.512774551	1:10
+Nbig_01_T1	Microbiome	Nbig_01	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	3	5.9	0.08	0.514851832	0
+Nbig_01_T2	Microbiome	Nbig_01	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	3	5.9	0.08	0.514851832	0
+Nbig_02_T1	Microbiome	Nbig_02	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	4	7.7	0.22	16.26107542	1:20
+Nbig_02_T2	Microbiome	Nbig_02	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	4	7.7	0.22	16.26107542	1:20
+Nbig_03_T1	Microbiome	Nbig_03	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	8.2	0.11	0.782583011	1:10
+Nbig_03_T2	Microbiome	Nbig_03	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	8.2	0.11	0.782583011	1:10
+Nbig_04_T1	Microbiome	Nbig_04	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	27	13.3	0.54	4.11787821	1:10
+Nbig_04_T2	Microbiome	Nbig_04	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	27	13.3	0.54	4.11787821	1:10
+Nbig_05_T1	Microbiome	Nbig_05	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	130	21.9	0.94	2.383675967	1:10
+Nbig_05_T2	Microbiome	Nbig_05	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	130	21.9	0.94	2.383675967	1:10
+Nbig_06_T1	Microbiome	Nbig_06	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	19	12	0.37	3.931827729	1:20
+Nbig_06_T2	Microbiome	Nbig_06	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	19	12	0.37	3.931827729	1:20
+Nbig_07_T1	Microbiome	Nbig_07	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	7.6	0.1	1.649414233	1:10
+Nbig_07_T2	Microbiome	Nbig_07	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	5	7.6	0.1	1.649414233	1:10
+Nbig_08_T1	Microbiome	Nbig_08	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	18	11.4	0.47	2.164667309	1:10
+Nbig_08_T2	Microbiome	Nbig_08	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	18	11.4	0.47	2.164667309	1:10
+Nbig_09_T1	Microbiome	Nbig_09	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	62	16.9	2.57	0.633241622	1:10
+Nbig_09_T2	Microbiome	Nbig_09	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	62	16.9	2.57	0.633241622	1:10
+Nbig_10_T1	Microbiome	Nbig_10	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	6	8.8	0.21	2.28310762	1:10
+Nbig_10_T2	Microbiome	Nbig_10	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	6	8.8	0.21	2.28310762	1:10
+Nbig_11_T1	Microbiome	Nbig_11	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	109	21.2	0.92	3.281174706	1:10
+Nbig_11_T2	Microbiome	Nbig_11	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	109	21.2	0.92	3.281174706	1:10
+Nbig_12_T1	Microbiome	Nbig_12	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	83	18.4	1.03	5.892142342	1:10
+Nbig_12_T2	Microbiome	Nbig_12	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	83	18.4	1.03	5.892142342	1:10
+Nbig_13_T1	Microbiome	Nbig_13	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	118	20.2	3.46	6.431536118	1:20
+Nbig_13_T2	Microbiome	Nbig_13	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	118	20.2	3.46	6.431536118	1:20
+Nexi_01_T1	Microbiome	Nexi_01	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	4	8.3	0.13	1.737793405	0
+Nexi_01_T2	Microbiome	Nexi_01	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	4	8.3	0.13	1.737793405	0
+Nexi_02_T1	Microbiome	Nexi_02	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.2	0.02	0.211574423	0
+Nexi_02_T2	Microbiome	Nexi_02	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.2	0.02	0.211574423	0
+Nexi_03_T1	Microbiome	Nexi_03	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.07	7.98939207	1:10
+Nexi_03_T2	Microbiome	Nexi_03	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.07	7.98939207	1:10
+Nexi_04_T1	Microbiome	Nexi_04	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.02	0.307624874	0
+Nexi_04_T2	Microbiome	Nexi_04	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.02	0.307624874	0
+Nexi_05_T1	Microbiome	Nexi_05	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.6	0.05	0.263759313	0
+Nexi_05_T2	Microbiome	Nexi_05	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.6	0.05	0.263759313	0
+Nexi_06_T1	Microbiome	Nexi_06	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.06	0.14804499	0
+Nexi_06_T2	Microbiome	Nexi_06	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	3	6.1	0.06	0.14804499	0
+Nexi_07_T1	Microbiome	Nexi_07	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.5	0.01	0.189635749	0
+Nexi_07_T2	Microbiome	Nexi_07	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.5	0.01	0.189635749	0
+Nexi_08_T1	Microbiome	Nexi_08	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	9	10.1	0.07	68.18789239	1:10
+Nexi_08_T2	Microbiome	Nexi_08	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	9	10.1	0.07	68.18789239	1:10
+Nexi_09_T1	Microbiome	Nexi_09	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.6	0.01	0.28235993	0
+Nexi_09_T2	Microbiome	Nexi_09	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	2	5.6	0.01	0.28235993	0
+Nexi_10_T1	Microbiome	Nexi_10	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.16	58.97519495	1:10
+Nexi_10_T2	Microbiome	Nexi_10	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.16	58.97519495	1:10
+PCR_BL2_T1	Blank	PCR_BL2	Blank	NA	NA	Blank	BL	NA	NA	NA	NA	0
+PCR_BL2_T2	Blank	PCR_BL2	Blank	NA	NA	Blank	BL	NA	NA	NA	NA	0
+PCR_BL3_T1	Blank	PCR_BL3	Blank	NA	NA	Blank	BL	NA	NA	NA	NA	0
+PCR_BL3_T2	Blank	PCR_BL3	Blank	NA	NA	Blank	BL	NA	NA	NA	NA	0
+Arup_03_T1-reseq	Microbiome	Arup_03	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	82	15.7	0.53	13.33720893	1:10
+Arup_03_T2-reseq	Microbiome	Arup_03	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	82	15.7	0.53	13.33720893	1:10
+Arup_04_T1-reseq	Microbiome	Arup_04	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	113	17.2	1.26	8.48174517	1:10
+Arup_04_T2-reseq	Microbiome	Arup_04	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	113	17.2	1.26	8.48174517	1:10
+Arup_08_T1-reseq	Microbiome	Arup_08	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	157	19.1	0.57	9.041749357	1:10
+Arup_08_T2-reseq	Microbiome	Arup_08	Generalist predator	Midwater	Centrarchidae	Ambloplites_rupestris	Arup	157	19.1	0.57	9.041749357	1:10
+Ccar_01_T1-reseq	Microbiome	Ccar_01	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.12	0.098129008	0
+Ccar_01_T2-reseq	Microbiome	Ccar_01	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.2	0.12	0.098129008	0
+Ccar_05_T1-reseq	Microbiome	Ccar_05	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.02	0.690314074	0
+Ccar_05_T2-reseq	Microbiome	Ccar_05	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6.5	0.02	0.690314074	0
+Ccar_17_T1-reseq	Microbiome	Ccar_17	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.01	0.414374019	0
+Ccar_17_T2-reseq	Microbiome	Ccar_17	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.9	0.01	0.414374019	0
+Ccar_18_T1-reseq	Microbiome	Ccar_18	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6	0.02	2.413444499	0
+Ccar_18_T2-reseq	Microbiome	Ccar_18	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	6	0.02	2.413444499	0
+Ccar_19_T1-reseq	Microbiome	Ccar_19	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.02	1.373047755	0
+Ccar_19_T2-reseq	Microbiome	Ccar_19	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	2	5.7	0.02	1.373047755	0
+Ccar_21_T1-reseq	Microbiome	Ccar_21	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6	0.01	9.697793299	1:10
+Ccar_21_T2-reseq	Microbiome	Ccar_21	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	4	6	0.01	9.697793299	1:10
+Ccar_24_T1-reseq	Microbiome	Ccar_24	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.01	0.859135769	0
+Ccar_24_T2-reseq	Microbiome	Ccar_24	Generalist predator	Benthic	Cottidae	Cottus_carolinae	Ccar	3	5.8	0.01	0.859135769	0
+Ecae_03_T1-reseq	Microbiome	Ecae_03	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	8.204182055	1:10
+Ecae_03_T2-reseq	Microbiome	Ecae_03	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	8.204182055	1:10
+Ecae_05_T1-reseq	Microbiome	Ecae_05	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.226700478	1:10
+Ecae_05_T2-reseq	Microbiome	Ecae_05	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.4	NA	0.226700478	1:10
+Ecae_14_T1-reseq	Microbiome	Ecae_14	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	20.97932574	1:10
+Ecae_14_T2-reseq	Microbiome	Ecae_14	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.3	0.01	20.97932574	1:10
+Ecae_20_T1-reseq	Microbiome	Ecae_20	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.1	0.01	0.103655006	0
+Ecae_20_T2-reseq	Microbiome	Ecae_20	Invertivore	Benthic	Percidae	Etheostoma_caeruleum	Ecae	2	5.1	0.01	0.103655006	0
+Foli_01_T1-reseq	Microbiome	Foli_01	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	0.378717334	0
+Foli_01_T2-reseq	Microbiome	Foli_01	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	1	5.3	0.01	0.378717334	0
+Foli_03_T1-reseq	Microbiome	Foli_03	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	7.5	0.06	0.786364525	1:10
+Foli_03_T2-reseq	Microbiome	Foli_03	Invertivore	Topwater	Fundulidae	Fundulus_olivaceus	Foli	3	7.5	0.06	0.786364525	1:10
+Found_155_29	Microbiome	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Found_170_29	Microbiome	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Found_197_29	Microbiome	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA	NA
+Lmeg_11_T1-reseq	Microbiome	Lmeg_11	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	50	12.4	2.69	18.3691125	1:10
+Lmeg_11_T2-reseq	Microbiome	Lmeg_11	Generalist predator	Midwater	Centrarchidae	Lepomis_megalotis	Lmeg	50	12.4	2.69	18.3691125	1:10
+Lzon_01_T1-reseq	Microbiome	Lzon_01	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.1	0.08	1.386868921	1:10
+Lzon_01_T2-reseq	Microbiome	Lzon_01	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	9	10.1	0.08	1.386868921	1:10
+Lzon_08_T1-reseq	Microbiome	Lzon_08	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	8.7	0.11	17.39861512	1:10
+Lzon_08_T2-reseq	Microbiome	Lzon_08	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	8.7	0.11	17.39861512	1:10
+Lzon_15_T1-reseq	Microbiome	Lzon_15	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	3	7.1	0.06	7.348256847	1:20
+Lzon_15_T2-reseq	Microbiome	Lzon_15	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	3	7.1	0.06	7.348256847	1:20
+Lzon_17_T1-reseq	Microbiome	Lzon_17	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	10.1	0.07	6.531026776	1:10
+Lzon_17_T2-reseq	Microbiome	Lzon_17	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	8	10.1	0.07	6.531026776	1:10
+Lzon_19_T1-reseq	Microbiome	Lzon_19	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	9.5	0.04	6.73690589	1:20
+Lzon_19_T2-reseq	Microbiome	Lzon_19	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	7	9.5	0.04	6.73690589	1:20
+Lzon_23_T1-reseq	Microbiome	Lzon_23	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.6	0.04	16.88155994	1:20
+Lzon_23_T2-reseq	Microbiome	Lzon_23	Invertivore	Midwater	Cyprinidae	Luxilus_zonatus	Lzon	5	8.6	0.04	16.88155994	1:20
+Mdol_02_T1-reseq	Microbiome	Mdol_02	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	13	11	0.07	9.176787413	1:10
+Mdol_02_T2-reseq	Microbiome	Mdol_02	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	13	11	0.07	9.176787413	1:10
+Mdol_05_T1-reseq	Microbiome	Mdol_05	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	66	17.1	5.97	5.679221587	1:10
+Mdol_05_T2-reseq	Microbiome	Mdol_05	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	66	17.1	5.97	5.679221587	1:10
+Mdol_10_T1-reseq	Microbiome	Mdol_10	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	171	23.3	3.31	17.50391207	1:10
+Mdol_10_T2-reseq	Microbiome	Mdol_10	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	171	23.3	3.31	17.50391207	1:10
+Mdol_12_T1-reseq	Microbiome	Mdol_12	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	420	32.4	1.12	74.48213553	1:10
+Mdol_12_T2-reseq	Microbiome	Mdol_12	Generalist predator	Midwater	Centrarchidae	Micropterus_dolomieu	Mdol	420	32.4	1.12	74.48213553	1:10
+Nbig_01_T1-reseq	Microbiome	Nbig_01	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	3	5.9	0.08	0.514851832	0
+Nbig_01_T2-reseq	Microbiome	Nbig_01	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	3	5.9	0.08	0.514851832	0
+Nbig_02_T1-reseq	Microbiome	Nbig_02	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	4	7.7	0.22	16.26107542	1:20
+Nbig_02_T2-reseq	Microbiome	Nbig_02	Omnivore	Benthic	Cyprinidae	Nocomis_biguttatus	Nbig	4	7.7	0.22	16.26107542	1:20
+Nexi_03_T1-reseq	Microbiome	Nexi_03	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.07	7.98939207	1:10
+Nexi_03_T2-reseq	Microbiome	Nexi_03	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.07	7.98939207	1:10
+Nexi_08_T1-reseq	Microbiome	Nexi_08	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	9	10.1	0.07	68.18789239	1:10
+Nexi_08_T2-reseq	Microbiome	Nexi_08	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	9	10.1	0.07	68.18789239	1:10
+Nexi_10_T1-reseq	Microbiome	Nexi_10	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.16	58.97519495	1:10
+Nexi_10_T2-reseq	Microbiome	Nexi_10	Invertivore	Benthic	Ictaluridae	Noturus_exilis	Nexi	11	10.4	0.16	58.97519495	1:10
+PCR_BL3_T1-reseq	Blank	PCR_BL3	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+PCR_BL3_T2-reseq	Blank	PCR_BL3	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+B-L1-618_T1	Biofilm	B-L1-618	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L1-618_T2	Biofilm	B-L1-618	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L1-619_T1	Biofilm	B-L1-619	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L1-619_T2	Biofilm	B-L1-619	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L1-620_T1	Biofilm	B-L1-620	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L1-620_T2	Biofilm	B-L1-620	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L2-618_T1	Biofilm	B-L2-618	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L2-618_T2	Biofilm	B-L2-618	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L2-619_T1	Biofilm	B-L2-619	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L2-619_T2	Biofilm	B-L2-619	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L2-620_T1	Biofilm	B-L2-620	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-L2-620_T2	Biofilm	B-L2-620	Environment	NA	Biofilm	Biofilm	B_lower	NA	NA	NA	NA	0
+B-M1-618_T1	Biofilm	B-M1-618	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M1-618_T2	Biofilm	B-M1-618	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M1-619_T1	Biofilm	B-M1-619	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M1-619_T2	Biofilm	B-M1-619	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M1-620_T1	Biofilm	B-M1-620	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M1-620_T2	Biofilm	B-M1-620	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M2-618_T1	Biofilm	B-M2-618	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M2-618_T2	Biofilm	B-M2-618	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M2-619_T1	Biofilm	B-M2-619	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M2-619_T2	Biofilm	B-M2-619	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M2-620_T1	Biofilm	B-M2-620	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-M2-620_T2	Biofilm	B-M2-620	Environment	NA	Biofilm	Biofilm	B_mid	NA	NA	NA	NA	0
+B-U1-618_T1	Biofilm	B-U1-618	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U1-618_T2	Biofilm	B-U1-618	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U1-619_T1	Biofilm	B-U1-619	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U1-619_T2	Biofilm	B-U1-619	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U1-620_T1	Biofilm	B-U1-620	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U1-620_T2	Biofilm	B-U1-620	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U2-618_T1	Biofilm	B-U2-618	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U2-618_T2	Biofilm	B-U2-618	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U2-619_T1	Biofilm	B-U2-619	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U2-619_T2	Biofilm	B-U2-619	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U2-620_T1	Biofilm	B-U2-620	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+B-U2-620_T2	Biofilm	B-U2-620	Environment	NA	Biofilm	Biofilm	B_upper	NA	NA	NA	NA	0
+env_ext_BL1_T1	Blank	env_ext_BL1	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+env_ext_BL1_T2	Blank	env_ext_BL1	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+env_ext_BL2_T1	Blank	env_ext_BL2	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+env_ext_BL2_T2	Blank	env_ext_BL2	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+field_BL1_T1	Blank	env_field_BL1	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+field_BL1_T2	Blank	env_field_BL1	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+field_BL2_T1	Blank	env_field_BL2	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+field_BL2_T2	Blank	env_field_BL2	Blank	NA	Blank	Blank	BL	NA	NA	NA	NA	0
+W-L1-618_T1	Water	W-L1-618	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L1-618_T2	Water	W-L1-618	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L1-619_T1	Water	W-L1-619	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L1-619_T2	Water	W-L1-619	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L1-620_T1	Water	W-L1-620	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L1-620_T2	Water	W-L1-620	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L2-618_T1	Water	W-L2-618	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L2-618_T2	Water	W-L2-618	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L2-619_T1	Water	W-L2-619	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L2-619_T2	Water	W-L2-619	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L2-620_T1	Water	W-L2-620	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-L2-620_T2	Water	W-L2-620	Environment	NA	Water	Water	W_lower	NA	NA	NA	NA	0
+W-M1-618_T1	Water	W-M1-618	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M1-618_T2	Water	W-M1-618	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M1-619_T1	Water	W-M1-619	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M1-619_T2	Water	W-M1-619	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M1-620_T1	Water	W-M1-620	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M1-620_T2	Water	W-M1-620	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M2-618_T1	Water	W-M2-618	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M2-618_T2	Water	W-M2-618	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M2-619_T1	Water	W-M2-619	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M2-619_T2	Water	W-M2-619	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M2-620_T1	Water	W-M2-620	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-M2-620_T2	Water	W-M2-620	Environment	NA	Water	Water	W_mid	NA	NA	NA	NA	0
+W-U1-618_T1	Water	W-U1-618	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U1-618_T2	Water	W-U1-618	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U1-619_T1	Water	W-U1-619	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U1-619_T2	Water	W-U1-619	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U1-620_T1	Water	W-U1-620	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U1-620_T2	Water	W-U1-620	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U2-618_T1	Water	W-U2-618	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U2-618_T2	Water	W-U2-618	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U2-619_T1	Water	W-U2-619	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U2-619_T2	Water	W-U2-619	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U2-620_T1	Water	W-U2-620	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
+W-U2-620_T2	Water	W-U2-620	Environment	NA	Water	Water	W_upper	NA	NA	NA	NA	0
